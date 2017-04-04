@@ -1,0 +1,9 @@
+{
+    "collection": "freebase2dbpedia-2015-10",
+    "operation": "build",
+    "path": "/data/collections/dbpedia/dbpedia-2015-10/",
+    "files": [
+		{"filename": "core-i18n/en/freebase_links_en.ttl.bz2", "reverse": true, "prefix": "fb:"}
+     ],
+    "redirects": "core-i18n/en/transitive_redirects_en.ttl.bz2"
+}

@@ -1,0 +1,616 @@
+<top>
+<num>CE-051</num>
+<query>weatherwall</query>
+<narr>
+Have been trying to access the CSIRO weatherwall site to check on weather in Melbourne over the last 24 hours. It seems to be off line at present. Any idea why? When might it be back on line?
+</narr>
+</top>
+
+<top>
+<num>CE-052</num>
+<query>solve magazine</query>
+<narr>
+Could you send us information on subscription to Solve, please
+</narr>
+</top>
+
+<top>
+<num>CE-053</num>
+<query>selenium soil</query>
+<narr>
+Can you please provide a current e-mail address, or failing that can you please put me in contact with the group responsible for the research into the use of selenium as an additive to soils, to promote sheep productivity/health. There were some trials conducted in WA and I am looking for aditional information on these.
+</narr>
+</top>
+
+<top>
+<num>CE-054</num>
+<query>the heat is on</query>
+<narr>
+Would you please point me in the direction as to where to get your energy reportThe Heat is On, and how much it is?
+</narr>
+</top>
+
+<top>
+<num>CE-055</num>
+<query>case moth identification</query>
+<narr>
+I have photographs of several different Case Moths and have been endeavouring to find photographs or drawings that could assist in identification.
+</narr>
+</top>
+
+<top>
+<num>CE-056</num>
+<query>12345+</query>
+<narr>
+Could you please send me the CSIRO 12345+ Food and Nutrition Plan. I want to know what the appropriate total kj intake for me is.
+</narr>
+</top>
+
+<top>
+<num>CE-057</num>
+<query>FAST instruments</query>
+<narr>
+We are interested to procure intruments of FAST developed by you. Please send us the name, address and Tel. No. and E-Mail ID of the supplier in India.
+</narr>
+</top>
+
+<top>
+<num>CE-058</num>
+<query>wood borer treatment</query>
+<narr>
+We are wishing to find out more information about the wood borer, in particular treatment and eradication. We have been trying to access the following link on your website but it appears to not work. As with lyctid borers, if decorative timber is infested and the emergent holes are considered unsightly, the timber may be treated using borer fluid.
+</narr>
+</top>
+
+<top>
+<num>CE-059</num>
+<query>vinelogic cd</query>
+<narr>
+VineLOGICPlease, inform to me how posible to buy this CD.
+</narr>
+</top>
+
+<top>
+<num>CE-060</num>
+<query>algae hydrogen powered cars</query>
+<narr>
+maybe in the future run the cars on algae/hydrogen combination Algae can clean the co2 out of the air and produce Oxygen and Hydrogen for the cars and homesWhen shall this maybe possible ?
+</narr>
+</top>
+
+<top>
+<num>CE-061</num>
+<query>wheel motor</query>
+<narr>
+Firstly, Help me for this project with send me introductions of your wheel motors for solarcars and their drivers. Secondly, You send me the costs of these things please.
+</narr>
+</top>
+
+<top>
+<num>CE-062</num>
+<query>climate change hops</query>
+<narr>
+I recently came upon a uni student campaign (Save the ales) about the effect of climatechange on hops growing.  I haven't managed to find an authoritative source forthe evidence used as a basis of the campaign.  Is there any?
+</narr>
+</top>
+
+<top>
+<num>CE-063</num>
+<query>vinegar bugs</query>
+<narr>
+I'm wondering if anyone can help us w/an infestation of vinegar bugs.
+</narr>
+</top>
+
+<top>
+<num>CE-064</num>
+<query>ant identification</query>
+<narr>
+Yesterday I was bitten quite a few times by ants that I had never seen before. They seem to have a shiny blue colouring to them and the bite burned alot and caused swelling and an unwell feeling. I don't know of anywhere locally where I could go to have them identified and was wondering if you could suggest a way to have this done??
+</narr>
+</top>
+
+<top>
+<num>CE-065</num>
+<query>recruitment</query>
+<narr>
+Could you please advise me of the process for being consideres fo recrui
+</narr>
+</top>
+
+<top>
+<num>CE-066</num>
+<query>chilli paste preservatives</query>
+<narr>
+I am interested to find out more about using preservatives in chilli paste.
+</narr>
+</top>
+
+<top>
+<num>CE-067</num>
+<query>Sydney ocean temperatures</query>
+<narr>
+Why are ocean temperatures in Sydney waters so cold?
+</narr>
+</top>
+
+<top>
+<num>CE-068</num>
+<query>sea level changes East Coast</query>
+<narr>
+ would like to enquire about expected sea level changes on the east cost of Australia, in particular in the Gold Coast/Tweed area.
+</narr>
+</top>
+
+<top>
+<num>CE-069</num>
+<query>magnesium supplement</query>
+<narr>
+Can you tell me what the most effective/efficient (oral) supplement of magnesium is?
+</narr>
+</top>
+
+<top>
+<num>CE-070</num>
+<query>information technology jobs</query>
+<narr>
+I am looking at any Information Technology Job/traineeships that you may have available.
+</narr>
+</top>
+
+<top>
+<num>CE-071</num>
+<query>termite wings</query>
+<narr>
+Just wonder if termite has wing in their life cycle.  If yes, then do they fly into the house before it rains?
+</narr>
+</top>
+
+<top>
+<num>CE-072</num>
+<query>biodegradable materials</query>
+<narr>
+One of our tasks is to possibly make the bottle out of biodegradable materials, so as to be less harmful to the environment.
+</narr>
+</top>
+
+<top>
+<num>CE-073</num>
+<query>postdoctoral bioinformatics</query>
+<narr>
+Postdoc Position (Bioinformatics)
+</narr>
+</top>
+
+<top>
+<num>CE-074</num>
+<query>rene van berkel</query>
+<narr>
+I would like to come in contact with one of your employees, Rene van Berkel
+</narr>
+</top>
+
+<top>
+<num>CE-075</num>
+<query>water conservation industry</query>
+<narr>
+what has been done to conserve water in industry???
+</narr>
+</top>
+
+<top>
+<num>CE-076</num>
+<query>electric vehicles</query>
+<narr>
+enquiry regarding electric vehicles
+</narr>
+</top>
+
+<top>
+<num>CE-077</num>
+<query>climate change</query>
+<narr>
+Research enquiry ~ climate change ~ land clearing etc
+</narr>
+</top>
+
+<top>
+<num>CE-078</num>
+<query>pem micro fuel cells</query>
+<narr>
+Are PEM micro fuel cells commercially available, yet?
+</narr>
+</top>
+
+<top>
+<num>CE-079</num>
+<query>internship</query>
+<narr>
+I am required to undergo four weeks Internship during May-June 2007
+</narr>
+</top>
+
+<top>
+<num>CE-080</num>
+<query>biodiversity</query>
+<narr>
+l was wondering if you could please some me information on biodiversity
+</narr>
+</top>
+
+<top>
+<num>CE-081</num>
+<query>artificial photosynthesis</query>
+<narr>
+ am unable to ascertain from your web site the current state of research into "Artificial Photosynthesis" in particular as a way to absorb atmospheric carbon dioxide.
+</narr>
+</top>
+
+<top>
+<num>CE-082</num>
+<query>total wellbeing diet seafood</query>
+<narr>
+Total Wellbeing Diet. allergic to seafood,
+</narr>
+</top>
+
+<top>
+<num>CE-083</num>
+<query>contact scientist</query>
+<narr>
+For my science project I have been asked to contact a Scientist at CSIRO like you and could you or if your to busy one of your other Scientist please answer the following 6 simple questions and email back to me: 1) What area of science do you do know most about? 2) What subjects did you do at school? 3) Where did you get your training for your job? 4) What is your main hobby or interest? 5) What sort of books do you like? 6) What sort of music do you like most?
+</narr>
+</top>
+
+<top>
+<num>CE-084</num>
+<query>drought nsw</query>
+<narr>
+ I am interested to know about the current drought situation. I would like to know if you could please provide a statisics about the drought situation in NSW, which determines which town is in need of help.(e.g farmers who are in
+</narr>
+</top>
+
+<top>
+<num>CE-085</num>
+<query>water level property</query>
+<narr>
+concerned about the level of water rising, damaging and de-valueing property.
+</narr>
+</top>
+
+<top>
+<num>CE-086</num>
+<query>rabies test</query>
+<narr>
+Can you please advise how long after the rabies needles we have to wait to fly them over.
+</narr>
+</top>
+
+<top>
+<num>CE-087</num>
+<query>treated timber edible plants</query>
+<narr>
+Can you please advise of any relevant information regarding the health concerns associated with having treated timber surrounding edible plants
+</narr>
+</top>
+
+<top>
+<num>CE-088</num>
+<query>improving the built environment</query>
+<narr>
+Can you please tell me the latest version of the Improving the Built Environment Information sheet.
+</narr>
+</top>
+
+<top>
+<num>CE-089</num>
+<query>postdoctoral</query>
+<narr>
+ Request for a Post-doctoral Research Position
+</narr>
+</top>
+
+<top>
+<num>CE-090</num>
+<query>plant heavy metal binding proteins</query>
+<narr>
+can u pls get me an approximate idea of the research work going on in the field of "plant heavy metal binding proteins" and the brief knowledge about the person carryin out the reasearch work
+</narr>
+</top>
+
+<top>
+<num>CE-091</num>
+<query>ultracapacitors</query>
+<narr>
+I would like to ask about ultracapacitors that have been used in solar powered vehicles
+</narr>
+</top>
+
+<top>
+<num>CE-092</num>
+<query>cane toad photo</query>
+<narr>
+The authors would like to use the following image: 1) Photo of cane toad:  From CSIROnline Information Sheet: CSIRO cane toad research, www.csiro.au/index.asp?type=faq&id=CaneToadControl&stylesheet Would you have a high res file (300dpi) suitable for publishing available?
+</narr>
+</top>
+
+<top>
+<num>CE-093</num>
+<query>annual report</query>
+<narr>
+Please send a copy of the Annual Report to:
+</narr>
+</top>
+
+<top>
+<num>CE-094</num>
+<query>ants</query>
+<narr>
+experiencing problems with ants accessing lunches and water
+</narr>
+</top>
+
+<top>
+<num>CE-095</num>
+<query>plant gene technology</query>
+<narr>
+I am very interesed by your research about Plant gene technology
+</narr>
+</top>
+
+<top>
+<num>CE-096</num>
+<query>ocean floor map</query>
+<narr>
+I would love to purchase a copy of your ocean floor map.  Is there any chance?
+</narr>
+</top>
+
+<top>
+<num>CE-097</num>
+<query>shipping container simulate</query>
+<narr>
+From memory I remember the facility being able to simulate the effects on packaged product during shipping container transport.
+</narr>
+</top>
+
+<top>
+<num>CE-098</num>
+<query>insect identification</query>
+<narr>
+identify a rather large bug
+</narr>
+</top>
+
+<top>
+<num>CE-099</num>
+<query>training coordinator</query>
+<narr>
+I was wondering if i could possibly get a name and contact details foryour Training Co-ordinator or HR Manager for your organisation.
+</narr>
+</top>
+
+<top>
+<num>CE-100</num>
+<query>water food production</query>
+<narr>
+I am trying to find out how much water is needed to produce the  various foods we eat and export
+</narr>
+</top>
+
+<top>
+<num>CE-101</num>
+<query>trials weight loss</query>
+<narr>
+ I was wanting to know if the CSIRO has any trials needing volunteers for better health or weight loss
+</narr>
+</top>
+
+<top>
+<num>CE-102</num>
+<query>nathers accurate</query>
+<narr>
+NatHERS AccuRate
+</narr>
+</top>
+
+<top>
+<num>CE-103</num>
+<query>forensic science workshop</query>
+<narr>
+obsessed/passionate about forensic science and wondered if there are any workshops available
+</narr>
+</top>
+
+<top>
+<num>CE-104</num>
+<query>uranium reserves</query>
+<narr>
+I am trying to find out how long will the present known reserves of uranium will last the world if it replaces all the energy feilds it is capable of replacing at present usage rates and predicted usage rates
+</narr>
+</top>
+
+<top>
+<num>CE-105</num>
+<query>venture capital investment</query>
+<narr>
+Do you function in any way as a venture capital firm? In other words is there a possibility for investment into your activities?
+</narr>
+</top>
+
+<top>
+<num>CE-106</num>
+<query>biodegradable plastic</query>
+<narr>
+From the website, I noticed that CSIRO is developinga biodegradable material to replace thepetro-plastics.  Would you mind give me moreinformation on that?
+</narr>
+</top>
+
+<top>
+<num>CE-107</num>
+<query>total wellbeing diet book 2 exercise</query>
+<narr>
+Do you have a downloadable version of the exercise checklist from the Total Wellbeing Diet Book 2
+</narr>
+</top>
+
+<top>
+<num>CE-108</num>
+<query>millipede control</query>
+<narr>
+CONTROL OF MILLIPEDES
+</narr>
+</top>
+
+<top>
+<num>CE-109</num>
+<query>employment aquaculture</query>
+<narr>
+Just an enquiry into the prospect of a position or a traineeship in the field of Aquaculture.
+</narr>
+</top>
+
+<top>
+<num>CE-110</num>
+<query>postdoctoral mathematics</query>
+<narr>
+I visted your website http://www.csiro.au/but I could not get exact advertisement for the Postdoctoral position inApplied Mathematics area in your Institution.
+</narr>
+</top>
+
+<top>
+<num>CE-111</num>
+<query>salinity wa</query>
+<narr>
+case studies unit and am looking for articles that have been written on 'salinity in WA'. These articles need to be dated after January 2006.
+</narr>
+</top>
+
+<top>
+<num>CE-112</num>
+<query>mineral enery resources Australia</query>
+<narr>
+I have a project which  needs me to find out Australi's major mineral and energy resources and where they are located?
+</narr>
+</top>
+
+<top>
+<num>CE-113</num>
+<query>sea levels</query>
+<narr>
+Could you provide me with the the CSIRO prediction of rise in sea levels,
+</narr>
+</top>
+
+<top>
+<num>CE-114</num>
+<query>millipedes</query>
+<narr>
+millipedes
+</narr>
+</top>
+
+<top>
+<num>CE-115</num>
+<query>hybrid cars</query>
+<narr>
+ Hybrid Car Technology
+</narr>
+</top>
+
+<top>
+<num>CE-116</num>
+<query>friction coal crush</query>
+<narr>
+friction coal crush
+</narr>
+</top>
+
+<top>
+<num>CE-117</num>
+<query>freon climate change</query>
+<narr>
+I know that freon is a cool gas. Could it or a similar gas be produced in purpose-built plants around the country and pumped into the atmosphere? The chosen gas would have to be harmless to the ozone layer and not have other damaging side-effects. Does a suitable gas exist and could it be produced in sufficient quantities?
+</narr>
+</top>
+
+<top>
+<num>CE-118</num>
+<query>termite bait box</query>
+<narr>
+Termite Bait Box
+</narr>
+</top>
+
+<top>
+<num>CE-119</num>
+<query>melbourne events calendar</query>
+<narr>
+Is it possible to obtain a calander of all upcoming events in Melbourne?
+</narr>
+</top>
+
+<top>
+<num>CE-120</num>
+<query>bubbles ice image</query>
+<narr>
+We work on a file concerning international polar year and I'm looking for a picture of air bubbles (from ice)
+</narr>
+</top>
+
+<top>
+<num>CE-121</num>
+<query>Australia population</query>
+<narr>
+The CSIRO released a document on the maximum population for Australia which you say has been exceeded.Can you tell me the name of that document
+</narr>
+</top>
+
+<top>
+<num>CE-122</num>
+<query>images</query>
+<narr>
+Is it posible for you to make us available some hight resolution photos:- newcastle disease- avian influena- blutongue disease- sheep pox- someone working in a laboratory with special plastic suits?
+</narr>
+</top>
+
+<top>
+<num>CE-123</num>
+<query>website feedback</query>
+<narr>
+ CSIRO.au Website Feedback Form
+</narr>
+</top>
+
+<top>
+<num>CE-124</num>
+<query>euclid eucalypts</query>
+<narr>
+Is the title "EUCLID: Eucalypts of Australia" available in book format ?
+</narr>
+</top>
+
+<top>
+<num>CE-125</num>
+<query>cervical cancer vaccination</query>
+<narr>
+ I wanted to dosomething on the  person who discovered the cervical cancer  vaccination.
+</narr>
+</top>
+
+<top>
+<num>CE-126</num>
+<query>fish oil</query>
+<narr>
+I am seeking a source of fish oil to purchase and am hoping you can send my enquiry to the right person.
+</narr>
+</top>
+
+<top>
+<num>CE-127</num>
+<query>government funding</query>
+<narr>
+ preparing an essay on lack of government funding available to australian scientists and was wondering if you could provide a little information, such as $ amounts of funding from the government you receive for the last 10 years if possible
+</narr>
+</top>
+

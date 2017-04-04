@@ -1,0 +1,942 @@
+<top>
+<num> Number: 1051 </num>
+<title> sushi </title>
+
+<desc> Description:
+Blogs describing sushi mainly for non-Japanese.
+</desc>
+
+<narr> Narrative:
+Relevant blogs regularly posts information on sushi, such as how to
+eat, materials, calories, etc., mainly for non-Japanese readers.
+Blogs just reviewing sushi restaurants are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1052 </num>
+<title> ubuntu </title>
+
+<desc> Description:
+Configuration and releases of ubuntu linux operation system.
+</desc>
+
+<narr> Narrative:
+The results should be sources for configuration and troubleshooting of
+linux ubuntu operating system. Preferably, it should not be opinions
+or criticism. Just help in the configuration and alerts of new
+releases.  
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1053 </num>
+<title> cooking recipes </title>
+
+<desc> Description:
+Blogs about cooking techniques, including detailed recipes and cooking
+advices.
+</desc>
+
+<narr> Narrative:
+Relevant blogs should focus almost exclusively on cooking. Relevant
+blogs should include recipes regularly. Blogs focused on restaurant
+reviews are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1054 </num>
+<title> auto maintenance </title>
+
+<desc> Description:
+Blogs describing automobile maintenance
+</desc>
+
+<narr> Narrative:
+Relevant blogs should discuss auto maintenance: fixes, 
+enhancements, and the quality/price of different brand of car parts. 
+Blogs discussing vehicle sales (the sale of whole vehicles rather than 
+parts) are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1055 </num>
+<title> Blu-ray Disc </title>
+
+<desc> Description:
+Blogs describing blu-ray disc, or its new features and development.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about blu-ray disk, its new
+features, or latest development.  Blogs with posts centered on blue
+laser diodes are not relevant.  
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1056 </num>
+<title> drawings sketches </title>
+
+<desc> Description:
+Blogs about drawing and making sketches, specially containing examples
+of drawings and techniques.
+</desc>
+
+<narr> Narrative:
+Relevant blogs should focus on drawing techniques and also show
+pictures of works, either by a single author or multiple
+authors. Portfolio blogs are relevant but only if they include
+comments on the drawing. Picture only blogs are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1057 </num>
+
+<title> U.S. national park </title>
+
+<desc> Description:
+Blogs providing information about national parks in United States.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about information about national
+parks in United States. Relevant blogs can include news and travel
+information about national parks. Relevant blogs do not necessarily
+address more than one national park. Blogs which only have a few posts
+about national parks are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1058 </num>
+
+<title> subprime lending </title>
+
+<desc> Description:
+Blogs describing experience using subprime lending, or other
+information for borrowers.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about subprime lending, such as
+writers' experience, latest interest rates, etc.  Blogs with mere ads
+for loan business are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1059 </num>
+<title> Firefox </title>
+
+<desc> Description:
+Blogs about the browser Firefox.
+</desc>
+
+<narr> Narrative:
+News or blogs about the launch or development of the browser FireFox
+and Mozilla.  Objective or subjective information such as criticism
+about firefox, the reputation, brand and development strategy of
+firefox are all relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1060 </num>
+<title> SEO </title>
+
+<desc> Description:
+Blogs about Search Engine Optimization (SEO).
+</desc>
+
+<narr> Narrative:
+Relevant blogs will introduce what is SEO and SEO methods and
+tools. Not relevant are blogs with intention to sell SEO or offer
+training to the website owners.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1061 </num>
+<title> theoretical computer science research </title>
+
+<desc> Description:
+Blogs discussing research in theoretical computer science.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about research in theoretical  
+computer science. Blogs may be written by a researcher (or a research  
+group) in the field or an interested follower of the field (e.g. a  
+software engineer). Blogs discussing computer science or mathematics  
+in general are not considered relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1062 </num>
+<title> beach volleyball </title>
+
+<desc> Description:
+Blogs talking about beach volleyball in general.
+</desc>
+
+<narr> Narrative:
+Blogs talking about beach volleyball in general, which includes things
+like results from tournaments, but also blogs that have a personal
+interest in beach volleyball.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1063 </num>
+<title> skin care tips </title>
+
+<desc> Description:
+Blogs discussing about skin care tips and products.
+</desc>
+
+<narr> Narrative:
+Relevant blogs are those in which each post discuss about skin types,  
+problems, skin care tips and different skin care product.
+Blogs discussing medical products and/or body care in general are not  
+considered relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1064 </num>
+<title> jazz </title>
+
+<desc> Description:
+Blogs about jazz, a popular genre of music that originated in New 
+Orleans in the United States among African-Americans.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will blog regularly about jazz, includings posts about 
+bands, albums, concerts, festivals, artists information, reviews and 
+interviews. Blogs about jazz blues are also relevant. Blogs with 
+documents not in English are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1065 </num>
+<title> newborn blog </title>
+
+<desc> Description:
+Blogs about babies, specially about, pregnancy, newborns but also
+older babies.
+</desc>
+
+<narr> Narrative:
+Relevant blogs should be written in a personal tone (typically by the
+baby's mother) and include advices to other mothers. The blog can also
+include posts about other subjects as long as the majority of posts
+are about the baby. Blogs about the baby blog community are also
+relevant. Blogs focusing exclusively on celebrity babies are not
+relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1066 </num>
+<title> phytoplankton </title>
+
+<desc> Description:
+Blogs describing the positive or negative effect plankton have in the
+environment.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about new research on the
+relationship between plankton and reports about water bloom or red
+tide or other pollution incidents happening around the world.  Blogs
+with posts giving a general introduction to plankton including feeding
+or breeding cannot be considered as relevant result.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1067 </num>
+<title> art auctions </title>
+
+<desc> Description:
+News and discussions about recent and future auctions of famous
+paintings and art objects.
+</desc>
+
+<narr> Narrative:
+The blogs should discuss and inform about recent and upcoming auctions
+of famous paintings. Some history about the object and the money
+obtained might be discussed. However, the pure description of the
+painting history would not be acceptable.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1068 </num>
+<title> theater </title>
+
+<desc> Description:
+Blogs discussing theater productions
+</desc>
+
+<narr> Narrative:
+Relevant blogs should discuss theater productions, not 
+necessarily limited to one location. Relevant blogs may serve to 
+announce theatre productions appearing at different venues, prices, and 
+schedules and may also serve as an outlet for theater critics. A 
+subscriber might be someone who wishes to be updated on the latest 
+theatrical events and there whereabouts. Theater includes opera, but 
+excludes anything related to film.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1069 </num>
+<title> whisky scotch </title>
+
+<desc> Description:
+Find blogs that discuss Scotch whisky.
+</desc>
+
+<narr> Narrative:
+Scottish whisky (scotch) is an alcoholic spirit, made in Scotland and 
+exported all over the world. Related issues include new malts, blends, 
+distilleries and master blenders.
+Relevant blogs will regularly discuss issues relating to Scottish whisky 
+(scotch) regularly.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1070 </num>
+<title> food in singapore </title>
+
+<desc> Description:
+Blogs discussing food and eating in Singapore.
+</desc>
+
+<narr> Narrative:
+Relevant blogs have a primary focus on food offerings 
+in Singapore, including reviews of restaurants and food vendors, 
+descriptions of local dishes, and food-related advice for travelers in 
+Singapore.  Blogs discussing Southeast Asian food in general, general 
+travel outside of Singapore, or other aspects of life in Singapore are 
+not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1071 </num>
+<title> GRE </title>
+
+<desc> Description:
+Blogs describing the whole process of the Graduate Record Examinations.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about the experiences of
+registeration, preparing and the final exam. Neither news nor comment
+about the exam is a relevant feedback.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1072 </num>
+
+<title> webcomics </title>
+
+<desc> Description:
+Blogs providing information about webcomics, web cartooning techniques
+or web cartoonists.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about comics published on Web, web
+cartooning techniques or web cartoonists. Here, the comics include
+illustrations, cartoon strips, animation and graphic novel. The
+cartooning techniques address drawing techniques, graphic software and
+devices like tablets. Relevant blogs can include information about
+cartoonists or can be managed by a cartoonist. Blogs which address
+cartoons not published on Web are not relevant. Blogs which only have a
+few posts about webcomics are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1073 </num>
+<title> cocktails </title>
+
+<desc> Description:
+Blogs describing different recipes for cocktails.
+</desc>
+
+<narr> Narrative:
+Relevant blogs mention recipes for cocktails regularly. Not relevant
+are blogs talking about alcohol in general (without recurring interest
+in cocktails), or about recipes for food etc.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1074 </num>
+<title> road trip motorcycle </title>
+
+<desc> Description:
+Blogs that contain diaries of motorcycle travels.
+</desc>
+
+<narr> Narrative:
+Relevant blogs should post regularly about road trips on
+motorcycles. Relevant blogs are not required to post exclusively on
+road trips. Blogs about motorcyles but not addressing road trips are
+not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1075 </num>
+<title> funny jokes </title>
+
+<desc> Description:
+Blogs in which each post contains a humourous witticism (a funny joke).
+</desc>
+
+<narr> Narrative:
+Relevant blogs are those in which each post contains a new humourous  
+witticism (funny joke).
+Blogs, which primarly discuss other material, but occasionally contain  
+jokes are not considered relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1076 </num>
+<title> gadgets </title>
+
+<desc> Description:
+Blogs about gadgets, gizmos and consumer electronics. 
+</desc>
+
+<narr> Narrative:
+Relevant blogs will blog regularly about the latest gadgets, gizmos and 
+consumer electronics such as cameras, MP3 players, guitars, PDAs or 
+laptops,  providing news, technical reviews and commentary. Blogs about 
+funny or weird electronic gadgets are also relevant. Blogs whose sole 
+intention is to sell products are not relevant. Blogs with documents not 
+in English are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1077 </num>
+<title> road cycling </title>
+
+<desc> Description:
+Blogs talking about professional road cycling: results, riders, news.
+</desc>
+
+<narr> Narrative:
+Relevant blogs talk about professional road cycling, for example about
+the results of the Tour de France, transfers of riders, drugs
+incidents. Not relevant are blogs about female road cycling,
+non-professional road cycling (e.g. personal journals), or other types
+of cycling (e.g. track, bmx).
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1078 </num>
+<title> celebrity babies </title>
+
+<desc> Description:
+Blogs discussing celebrities and their children.
+</desc>
+
+<narr> Narrative:
+Relevant blogs should discuss celebrity gossip with a 
+strong focus on babies, children and pregnancy.  Celebrity pregnancy and 
+birth announcements, sightings and photos of celebrities and their 
+children, and news stories relating to celebrities and their children 
+are all relevant.  General celebrity gossip blogs are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1079 </num>
+<title> mobile search </title>
+
+<desc> Description:
+Blogs about mobile search.
+</desc>
+
+<narr> Narrative:
+News or blogs about the launch or development of mobile search.
+Objective or subjective information such as criticism of mobile
+search, the technology, development and expectation of mobile search
+are all relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1080 </num>
+<title> baidu </title>
+
+<desc> Description:
+Blogs about the Chinese search engine Baidu.
+</desc>
+
+<narr> Narrative:
+News or blogs about the launch or service of the Chinese search engine
+Baidu.  Objective or subjective information such as criticism of
+Baidu, the reputation, market share and development strategy of Baidu
+are all relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1081 </num>
+<title> Peace Corps </title>
+
+<desc> Description:
+Blogs discussing anecdotes, questions, and 
+recommendations from Peace Corp volunteers
+</desc>
+
+<narr> Narrative:
+Relevant blogs should discuss anecdotes, questions, and 
+recommendations from past, present, and future Peace Corps volunteers. 
+Travelogues of volunteers currently on-assignment are relevant. Blogs 
+that mention the Peace Corp as a side topic are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1082 </num>
+
+<title> organic food and farming </title>
+
+<desc> Description:
+Blogs providing information about organic food or organic farming.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about providing information about
+organic food, organic farming. Here, the organic food means organically
+grown food like dairy, meat, crops and vegetables.  Organic farming
+means sustainable farming processes. Relevant blogs can also address
+various food safety issues like genetically modified organism (GMO).
+Blogs which only have a few posts about organic food and farming are not
+relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1083 </num>
+<title> Terri Schiavo </title>
+
+<desc> Description:
+Blogs discussing Terri Schiavo and euthanasia.
+</desc>
+
+<narr> Narrative:
+Relevant blogs discuss Terri Schiavo and euthanasia and whether it is
+right or wrong. Relevant blogs discuss whether she should be allowed
+to live or die or should steps be taken one way or the other are
+relevant. News about her state, protest demonstration, court action,
+legislative action to save her is not relevant unless the author of
+the article states her/his own opinion.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1084 </num>
+<title> Social Security reform </title>
+
+<desc> Description:
+Blogs discussing the Social Security reform
+</desc>
+
+<narr> Narrative:
+Relevant blogs discuss the Social Security reform as proposed by
+George Bush and whether reforms are good or bad. Relevant feeds
+discussing the retiring baby boomers generation interest in Social
+Security are relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1085 </num>
+<title> Xen </title>
+
+<desc> Description:
+Blogs providing information or news about the Xen open-source virtual
+machine monitor.
+</desc>
+
+<narr> Narrative:
+Relevant blogs regularly post information, such as new features,
+customization, and tips, about the Xen open-source virtual machine
+monitor.
+</narr>
+
+</top> 
+
+
+<top>
+<num> Number: 1086 </num>
+<title> 3d cities globes </title>
+
+<desc> Description:
+Blogs discussing software for visualizing and interacting with three- 
+dimensional (3d) models of cities and globes.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about software used to visualize  
+and interact with three-dimensional (3d) models of cities and globes.  
+Blogs posting primarily on 2d mapping software or Web2.0 applications  
+in general are not considered relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1087 </num>
+<title> spam </title>
+
+<desc> Description:
+Find blogs that discuss Internet spam in its various forms, including
+email spam, splogs, etc.
+</desc>
+
+<narr> Narrative:
+Spam is a common problem on the Internet, in various forms, such as 
+splogs, email (SMTP) spam,
+comment spam or next generation spam issues such spim and and spit.
+Relevant blogs will blog regularly about spam related issue
+on the internet, whether this is related to the various forms of spam 
+existing.
+Actual splogs are not relevant - blogs must carry reasonable and 
+informative content to be relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1088 </num>
+<title> UK European Constitution </title>
+
+<desc> Description:
+British people's opinion about European Union Constitution
+</desc>
+
+<narr> Narrative:
+The Blog return should reflect or discuss the opinion of British
+people about the European Constitution. There might opinions from
+people of other countries but they should refer mostly on the opinion
+of British.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1089 </num>
+<title> Chengdu </title>
+
+<desc> Description:
+Find opinions about the city of Chengdu, china.
+</desc>
+
+<narr> Narrative:
+Relevant opinions should be about the city of Chengdu and its people,
+either currently or historically.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1090 </num>
+<title> Open Source Software </title>
+
+<desc> Description:
+Blogs discussing Open Source Software
+</desc>
+
+<narr> Narrative:
+Relevant blogs discuss Open Source Software, its philosophy and why
+companies and/or individuals support or oppose it. Articles
+criticizing Open Source Software or its philosophy, its suitability to
+companies or its negative aspects are also relevant. Articles or news
+mentioning Open Source Software e.g., adoption by major firms without
+mentioning the authors point-of-view are not relevant. Blogs
+discussing Open Source Software, podcasts and/or using some news to
+make a point are relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1091 </num>
+<title> veronica mars </title>
+
+<desc> Description:
+Blogs talking about the TV show Veronica Mars.
+</desc>
+
+<narr> Narrative:
+Blogs talking about the TV show Veronica Mars. This includes general
+news about the show, but also episode reviews etc.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1092 </num>
+<title> mac os leopard </title>
+
+<desc> Description:
+Blogs talking about the new version of the Macintosh operating system,
+code-named "leopard".
+</desc>
+
+<narr> Narrative:
+Blogs talking about the new version of the Macintosh operating system,
+code-named "leopard". This includes discussion of release schedules,
+new features etc.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1093 </num>
+<title> Embryonic Stem cell research </title>
+
+<desc> Description:
+Blogs discussing Embryonic Stem cell research and whether it is
+morally right or wrong.
+</desc>
+
+<narr> Narrative:
+Relevant blogs discuss whether Embryonic Stem cell research is right
+or wrong.  Blogs supporting stem cell research funding by the US
+government or opposing it are relevant. Blogs with only news about
+Stem cell research are irrelevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1094 </num>
+<title> startups </title>
+
+<desc> Description:
+Blogs about startups, namely on funding, ideas, strategy and other
+general advice.
+</desc>
+
+<narr> Narrative:
+Relevant blogs should post almost exclusively on startups from any
+field (i.e. tech, law, industrial). VC blogs are specially relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1095 </num>
+<title> Hubei </title>
+
+<desc> Description:
+Blogs describing a province of China called Hubei.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about location, area, capital,
+population and culture of Hubei Province.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1096 </num>
+
+<title> hiking and backpacking </title>
+
+<desc> Description:
+Blogs introducing information about trails, gear and tips for hiking
+and backpacking.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly information about trails, gear and
+tips for hiking and backpacking. The trail information includes history,
+maps and experience. "Gear" means backpacks, boots, clothing and
+accessories.  Blogs which address either hiking or backpacking are also
+relevant. Blogs which only have a few posts about backpacking or hiking
+are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1097 </num>
+<title> graphs data visualization </title>
+
+<desc> Description:
+Blogs discussing novel techniques and software for effectively  
+graphing and visualizing data.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about novel techniques and software  
+for effectively graphing and visualizing data. Blogs discussing  
+computer graphics in general are not considered relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1098 </num>
+<title> Drilling for oil in Alaska </title>
+
+<desc> Description:
+Blogs discussing the drilling for oil in Alaska
+</desc>
+
+<narr> Narrative:
+Relevant blogs discuss the drilling for oil in Alaska and its possible
+effects on people living there. News about legislative bills, a
+politician belief are not relevant unless it mentions the authors
+point-of-view.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1099 </num>
+<title> Champions League </title>
+
+<desc> Description:
+News and Opinion about recent matches in the Champions League.
+</desc>
+
+<narr> Narrative:
+The blog should reflect constant discussions about recent matches of
+the soccer Champions League in Europe. It should contain opinions and
+statistics about the champions league. It should not reflect other
+matches than those played in the league. For instance, if the Real
+Madrid or Barcelona is in the Champions and some people are discussing
+about it, this should not be treated as Champions affine discussion.
+</narr>
+
+</top>
+
+
+<top>
+<num> Number: 1100 </num>
+<title> coffee and tea </title>
+
+<desc> Description:
+Blogs introducing coffee beans, tea leaves, recipes, or tools for
+brewing coffee or tea.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about introducing ingredients,
+recipes or tools for brewing coffee or tea. Here, the ingredients mean
+coffee beans and tea leaves, etc. The tools mean brewing instruments,
+grinders, infusers, pots and cups, etc. Relevant blogs can introduce
+cafes. Blogs which address either coffee or tea are also relevant. Blogs
+which only have a few posts about coffee or tea are not relevant.
+</narr>
+
+</top>
+
+

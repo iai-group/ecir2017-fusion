@@ -1,0 +1,8 @@
+{
+  "host": "mongodb://localhost:27017/",
+  "db": "nordlys-v02",
+  "collection_dbpedia": "dbpedia-2015-10",
+  "collection_sf_facc": "sf-facc",
+  "collection_word2vec": "word2vec-googlenews",
+  "collection_freebase2dbpedia": "freebase2dbpedia-2015-10"
+}

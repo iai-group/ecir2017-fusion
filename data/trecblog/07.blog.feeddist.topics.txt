@@ -1,0 +1,887 @@
+<top>
+<num>Number: 951</num>
+<title>Mutual Funds</title>
+
+<desc> Description:
+Blogs about mutual funds performance and trends.
+</desc>
+
+<narr> Narrative:
+Ratings from other known sources (Morningstar) or relative to key
+performance indicators (KPI) such as inflation, currency markets and
+domestic and international vertical market outlooks. News about mutual
+funds, mutual fund managers and investment companies. Specific
+recommendations should have supporting evidence or facts linked from
+known news or corporate sources. (Not investment spam or pure,
+uninformed conjecture.)
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 952</num>
+<title>movie review </title>
+
+<desc> Description:
+Blogs dealing with actors, movie previews, individual's movie critics
+and recommendations.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will introduce story details of a movie and
+individual's favorite stars and genres.  Blogs with biography of
+actors are also the focus of interest.  Not relevant are blog or shops
+which offers online downloads.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 953</num>
+<title>Biofuels may damage forests</title>
+
+<desc> Description:
+How the production of biofuels may damage the world's forests.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will discuss the possibility that forests, particularly
+tropical forests, may be destroyed to make way for biofuel
+crops. Examples of forest destruction are relevant. Discussion of
+technology involved in the production of biofuels are not relevant,
+unless they also include comment on the effect on forests.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 954</num>
+<title>Mac</title>
+
+<desc> Description:
+Blogs describing new products, features, or application software of
+Apple's Macintosh computers.
+</desc>
+
+<narr> Narrative:
+Relevant blogs post regularly about new products, features, or
+application software of Apple Mac computers. Not those about MAC
+(media access control) address or a cosmetic brand.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 955</num>
+<title>mobile phone</title>
+
+<desc> Description:
+Blogs describe individual's experiences and impressions using mobile
+phones and testing new features.  
+</desc>
+
+<narr> Narrative:
+Relevant blogs contains an overview of features relating to a mobile
+(cell) phone.  In doing so, the blogs compares different mobile phones
+and disclose announcements of mobile network provider or
+manufacturers. Not relevant are blogs with intention to sell online or
+offer ring tone downloads and mobile phones.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 956</num>
+<title>Firearm Control</title>
+
+<desc> Description:
+Blogs related to the firearm control debate.
+</desc>
+
+<narr> Narrative:
+Contains blogs about the gun control debate (i.e., to what extent
+should governments regulate the transaction of firearms?). Contains
+blogs pro and/or against gun control. Blogs must discuss gun control
+as the central topic, including, but not limited to, anecdotal
+reference, reasons for/against gun control, reference to statistics
+and news stories related to guns, and opinions people or organizations
+central to the gun control debate.
+
+Feeds about firearm collecting and sports hunting, of which guns and
+gun control is an important, but not central aspect, are
+irrelevant. Feeds about liberal vs. conservative political
+affiliations, on which gun control is also one aspect, are also
+irrelevant. Feeds that contain only a few blogs about gun control are
+irrelevant.
+
+This topic could represent a political figure that wants to understand
+both sides of the gun control debate.  
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 957</num>
+<title>Russia</title>
+
+<desc> Description:
+Blogs with information on or news about Russia.
+</desc>
+
+<narr> Narrative:
+Relevant blogs contain posts about the country Russia, Russian
+politics, companies and everyday life in Russia. Blogs that consist of
+news posts, some of them about Russia, are not considered
+relevant. The same goes for blogs mentioning some famous Russians as
+part of a overall topic (e.g. Russian tennis players as part of a
+sports blog).
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 958</num>
+<title>global warming</title>
+
+<desc> Description:
+Blogs providing information about some causes of global warming and
+the climate change.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about study and news about global
+warming and the climate change. Relevant blogs can introduce other
+resources about global warming such as films or events. Besides, blogs
+about the green house effect, the emissions of carbon dioxide or the
+Kyoto protocol are also relevant. Blogs which only have a few posts
+about global warming are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 959</num>
+<title>Bipolar disorder</title>
+
+<desc> Description:
+Descriptions of the symptoms and treatment of bipolar disorder are
+relevant.
+</desc>
+
+<narr> Narrative:
+Blogs are relevant if they describe the symptoms of bipolar
+disorder. They are relevant if they discuss possible treatments and
+their effectiveness. Blogs on mental health in general are not
+relevant 
+</narr> 
+
+</top>
+
+
+<top>
+<num>Number: 960</num>
+<title>garden</title>
+
+<desc> Description:
+Blogs describing garden or gardening.
+</desc>
+
+<narr> Narrative:
+Relevant blogs post regularly about garden or gardening as a
+hobby.  Those merely promoting the sale of gardening tools or
+products are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 961</num>
+<title>Disney World</title>
+
+<desc> Description:
+Blogs describing events, rides, facilities of Disney World.
+</desc>
+
+<narr> Narrative:
+Relevant blogs post regularly about events, rides, facilities of Walt
+Disney World Resort in Orland, Florida. They may have articles about
+other Disneyland parks in L.A., Tokyo, France, and Hong Kong, but must
+have those about Disney World in Orlando.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 962</num>
+<title>baseball</title>
+
+<desc> Description:
+Blogs with recurring interests in Major League Baseball, or lesser
+leagues, for example, giving news or analysis of games or player
+moves.  
+</desc>
+
+<narr> Narrative:
+Relevant blogs will have news or analysis from the major league
+baseball and other leagues.  Blogs listing only product reviews, or
+with other nonsensical information are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 963</num>
+<title>Nintendo DS</title>
+
+<desc> Description:
+Blogs that provide information about developments on the Nintendo DS
+gaming system.
+</desc>
+
+<narr> Narrative:
+News about Nintendo and their portable gaming systems, specifically
+the Nintendo DS. New game releases for the DS, both in the US and
+internationally. Press releases and announcements from game companies
+and for gaming conferences. News about innovative uses of the DS
+(homebrew) and user-created content and games. Deals and sales on
+Nintendo DS systems and games, but *less* interest in "buy now" types
+of links or obviously repurposed affiliate links to game shopping
+sites.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 964</num>
+<title>Violence in Sudan</title>
+
+<desc> Description:
+Blogs about the unrest and violence in Sudan.
+</desc>
+
+<narr> Narrative:
+Relevant blogs discuss events and/or debate opinions about the violent
+situation in Sudan, Africa. Relevant blogs may originate from advocacy
+groups from the international community, from volunteer workers
+stationed in Sudan, or from anyone discussing news related to the
+unrest in Sudan.
+
+Blogs that discuss violence and unrest in other areas of the world,
+including countries in Africa other than Sudan are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 965</num>
+<title>Peak Oil</title>
+
+<desc> Description:
+News, analysis and discussion about oil and energy production issues.
+</desc>
+
+<narr> Narrative:
+Links and analysis of economic indicators from the energy industry,
+exploratory geology research and other sources that provide boundary
+information on oil extraction, refinement and distribution in the
+world. More specifically, future impacts for the United States, OPEC
+initiatives and policies, North Sea and offshore drilling, Pacific rim
+development, Chinese oil consumption growth and South American
+(Venezuela) stability and reliability. Speculation and catastrophic
+prediction blogs are to be avoided.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 966</num>
+<title>Vacation Travel</title>
+
+<desc> Description:
+Blogs discuss travel deals, travel recommendations, travel logs
+for someone planning a vacation.
+</desc>
+
+<narr> Narrative:
+Blogs discuss travel in a broad sense, including travel planning,
+budget planning, promotions, scheduling, recommendations, travel logs,
+etc.  Relevant feeds would be useful to someone who is planning a
+vacation.  
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 967</num>
+<title>home baking</title>
+
+<desc> Description:
+Blogs introducing recipes or tools for baking cookies, cakes, pies and
+bread at home.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about introducing recipes or tools
+for home baking. Here, home baking means that amateur bakers rather
+than professional bakers bake cookies, cakes, pies and bread at home
+with their own tools. Blogs which only have a few posts about home
+baking are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 968</num>
+<title>christmas</title>
+
+<desc> Description:
+Relevant blogs will post individuals' stories about Christmas.
+</desc>
+
+<narr> Narrative:
+Blogs describing individual's bad and good experiences preparing for
+christmas and spending the christmas holidays. People are willing to
+share their impressions decorating christmas tree, exchanging gifts,
+spending time with family etc.  But also historical and traditional
+persons such as Santa Claus, yule, etc. are parts of these blogs. 
+Blogs about shopping or gift ideas are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 969</num>
+<title>planet</title>
+
+<desc> Description:
+Blogs describing planets or celestial bodies.
+</desc>
+
+<narr> Narrative:
+Relevant blogs post regularly about planets or celestial bodies.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 970</num>
+<title>Hurricane Katrina</title>
+
+<desc> Description:
+Blogs reporting on the results of Hurricane Katrina and relief
+efforts.
+</desc>
+
+<narr> Narrative:
+Descriptions and photos of the damage caused by Hurricane Katrina are
+relevant. Reports on responses to the storm by government agencies and
+other organizations are also relevant. Discussions about other
+hurricanes are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 971</num>
+<title>Wine</title>
+
+<desc> Description:
+Blogs about tasting and enjoying wine.
+</desc>
+
+<narr> Narrative:
+Relevant feeds will treat issues related to wine enjoyment such as
+tastings, reviews, food matching or pairing, and oenophile news and
+events.  Discussions of appellations and more general wine regions
+are also appropriate if expressed in the context of wine production
+or winemaking.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 972</num>
+<title>google maps earth</title>
+
+<desc> Description:
+Blogs with an interest in the Google products Google earth and Google Maps.
+</desc>
+
+<narr> Narrative:
+Blogs will give discussion about new features or ways to integrate
+Google Earth in interesting ways. Blogs which only describe the
+release of new Google Earth version are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 973</num>
+<title>Autism</title>
+
+<desc> Description:
+Blogs about autism: typical behavior and possible causes of this
+disorder.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will describe typical behavior of those suffering from
+this disorder. Theories on possible causes are also relevant, as are
+reports on its increasing prevalence, and current ideas on treatment
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 974</num>
+<title>tennis</title>
+
+<desc> Description:
+Blogs with information on tennis, tournaments and players.
+</desc>
+
+<narr> Narrative:
+Relevant blogs contain mainly posts about tennis; these could either
+be posts about (a) certain player(s), or in more general about tennis
+tournaments and results. We do not want blogs about table tennis, nor
+general sports blogs.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 975</num>
+<title>food</title>
+
+<desc> Description:
+Blogs describing experiences eating cuisines, culinary delights,
+recipes, nutrition plans.   
+</desc>
+
+<narr> Narrative:
+Relevant blogs will contain recipes, culinary delights, habits of
+eating or government food policies. Also individual's taste for foods
+are discussed in the blogs. Not relevant are any recommendations to
+food shops for human or animals.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 976</num>
+<title>NYC restaurants</title>
+
+<desc> Description:
+Blogs describing experiences about restaurants in New York City.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about experiences in restaurants in
+New York City, NY, USA. Relevant blogs might contain ratings, news and
+information about price and location of the restaurants. Restaurants
+include real restaurants, stalls selling food, bars and pubs. Blogs
+which only have a few posts about restaurants are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 977</num>
+<title>Digital TV</title>
+
+<desc> Description:
+Blogs which give information about digital TV products and related
+services.
+</desc>
+
+<narr> Narrative:
+Blogs are relevant that give information on digital TV, current
+technology and descriptions of available products. Users' reports on
+the quality of these products are relevant. Government policy on the
+change from analogue to digital TV is also relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 978</num>
+<title>music</title>
+
+<desc> Description:
+Blogs describing songs, biographies of musicians, musical styles and
+their influences of music on people are discussed.
+</desc>
+
+<narr> Narrative:
+Relevant are blogs describing biography and style of the
+musicians. Also definitions of musician and music styles are
+important. Not relevant are blogs with online downloads.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 979</num>
+<title>lighting</title>
+
+<desc> Description:
+Blogs describing any light fixtures.
+</desc>
+
+<narr> Narrative:
+Relevant blogs post regularly about light fixtures and/or writer's
+opinion on it.
+</narr>
+
+</top> 
+
+
+<top>
+<num>Number: 980</num>
+<title>stock trading</title>
+
+<desc> Description:
+Blogs providing information and techniques for stock trading.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about stock market trends,
+information about individual stocks, techniques for stock
+trading. Relevant blogs might contain posts describing experiences in
+a stock market such as trading diaries with charts. Blogs which
+contain only news are not relevant. Blogs which only have a few posts
+about stock trading are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 981</num>
+<title>indie rock</title>
+
+<desc> Description:
+Blogs introducing independent underground rock bands, their albums and
+events.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about independent underground rock
+bands, their albums and events. Relevant blogs contain reviews about
+the indie rock bands, albums or performances. Relevant blogs might
+introduce the history and the culture of indie rock. Blogs which
+contain information only about popular major rock bands are not
+relevant. Blogs which only have a few posts about indie rock are not
+relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 982</num>
+<title>machine learning</title>
+
+<desc> Description:
+Blogs with an interest in the machine learning research area and it's
+applications.
+</desc>
+
+<narr> Narrative:
+Blogs with an interest in the machine learning research area and its
+applications, including problems such as regression, supervised or
+unsupervised learning.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 983</num>
+<title>photography</title>
+
+<desc> Description:
+Blogs describing experience using camera and photography techniques to
+catch moments and memories.  Additionally, tips and success criteria
+to make photos are discussed.
+</desc>
+
+<narr> Narrative:
+Individual's philosophy and experiences using photography techniques
+are main focus of relevant blogs.  Irrelevant are blogs are
+photography stores and link farms.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 984</num>
+<title>DSLR camera review</title>
+
+<desc> Description:
+Blogs providing reviews and news about Digital SLR cameras, lens and
+the accessories.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly reviews and news about Digital SLR
+cameras, lens and the accessories. Blogs which cover only film cameras
+or compact digital cameras are not relevant. Blogs which post only
+news without any review are not relevant, either. The accessories
+might include various stuffs such as flashes, tripods, filters, bags
+or software packages. Blogs which only have a few posts about Digital
+SLR cameras and lens are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 985</num>
+<title>solaris</title>
+
+
+<desc> Description:
+Blogs describing experiences administrating the Solaris operating
+system, or it's new features or developments.
+</desc>
+
+<narr> Narrative:
+Relevant blogs will post regularly about administrating or using the
+Solaris operating system from Sun, it's latest features or
+developments. Blogs with posts about Solaris the movie are not
+relevant, not are blogs which only have a few posts Solaris.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 986</num>
+<title>Apple iPod</title>
+
+<desc> Description:
+Blogs describing all aspects of all models of the Apple iPod
+</desc>
+
+<narr> Narrative:
+Blogs related to the Apple iPod, including all the models of the iPod
+(e.g., the Nano, the Shuffle). Discusses features, defects,
+workarounds, and accessories for any model of the iPod. Such feeds
+would be relevant to someone who just purchased an iPod. Does not
+include blogs that discuss the iPod peripherally, such as blogs about
+Apple's performance as a company or blogs about all of Apple's
+products (e.g., iBook, iMac, iPhone, etc.). Relevant blogs must be
+centered on the iPod only.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 987</num>
+<title>scottish independence</title>
+
+<desc> Description:
+Blogs describing progress (or lack) towards Scottish independence, or
+the rise of the Scottish Nationalist Party (SNP).
+</desc>
+
+<narr> Narrative:
+Relevant blogs will have a central theme around the independence
+aspects of Scottish politics, the Scottish Nationalist Party, and the
+particulars of the devolved Scottish parliament with a view to an
+independent Scotland.  Feeds of Scottish newspapers are not relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 988</num>
+<title>Robot companions</title>
+
+<desc> Description:
+Blogs are relevant which describe robot companions that assist humans
+in every day tasks.
+</desc>
+
+<narr> Narrative:
+Relevant blogs describe robots that can help individuals with everyday
+tasks in or out of the home, such as acting as shopping assistants, or
+acting as companions. They must be about robot interaction with
+ordinary people. Blogs are not relevant if they describe robot
+activity without the purpose of assisting individual humans. They are
+not relevant if they describe the use of robots for military,
+policing, or manufacturing purposes.
+</narr> 
+
+</top>
+
+
+<top>
+<num>Number: 989</num>
+<title>Space Exploration</title>
+
+<desc> Description:
+Blogs discuss events/opinions related to actual or hypothetical
+space exploration.
+</desc>
+
+<narr> Narrative:
+Relevant blogs discuss events/opinions related to human
+exploration of space. Relevant blogs discuss events related to ongoing
+or future space missions, news related to space agencies worldwide
+(e.g., NASA, ESA, etc.), the politics of space exploration, or even
+the philosophical aspects of space exploration. Feeds centered on
+professional or amateur astronomy or astrophysics are not
+relevant. 
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 990</num>
+<title>lost tv</title>
+
+<desc> Description:
+Blogs that discuss the tv show, "Lost".
+</desc>
+
+<narr> Narrative:
+The relevant blogs discuss the TV show "Lost" regularly. Blogs that
+don't discuss this TV show often are regarded as not relevant. Also,
+lost TV's are not regarded as relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 991</num>
+<title>U.S. Election 2008</title>
+
+<desc> Description:
+Blogs about the United States 2008 presidential election.
+</desc>
+
+<narr> Narrative:
+Relevant blogs discuss news and opinions about the actual and/or
+potential candidates for the US 2008 presidential election, discussion
+on candidates' political strategy, and controversy. Relevant feeds
+may discuss a single presidential candidate, several candidates that
+share a political affiliation, or the 2008 election in general.  A
+relevant feed may even be maintained or endorsed by an actual
+presidential candidate (i.e., is undeniably biased), as long as the
+main focus is that person's (potential) participation in the 2008
+election.
+
+Blogs that more generally debate for/against a specific political
+viewpoint (e.g., conservative vs. liberal) or political party
+affiliation (e.g., Republican vs. Democrat), but do not focus on the
+2008 presidential election, are irrelevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 992</num>
+<title>Copyright law</title>
+
+<desc> Description:
+Blogs that discuss effects and changes of copyright law.
+</desc>
+
+<narr> Narrative:
+News and opinions focused on copyright law, including effects on private
+and public practice. Blogs that track copyright legislation up before a
+governing body (legislator, court, treaty-making organization) and
+provide news or opinion about those changes. Avoid too much emphasis on
+other types of related law (patent, trademark, trade secrets).
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 993</num>
+<title>buffy the vampire slayer</title>
+
+<desc> Description:
+Blogs that discuss the television program "Buffy The Vampire Slayer".
+</desc>
+
+<narr> Narrative:
+The relevant blogs discuss the TV show "Buffy the Vampire Slayer", or
+the comic books based on this show regularly. Blogs that don't discuss
+this TV show often are regarded as not relevant. Also, blogs about the
+band Slayer, or about Vampires in general are not regarded as being
+relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 994</num>
+<title>formula f1</title>
+
+<desc> Description:
+Blogs with interest in the formula one (f1) motor racing, perhaps with
+driver news, team news, or event news.  
+</desc>
+
+<narr> Narrative:
+Relevant blogs will contain news and analysis from the Formula f1
+motor racing circuit. Blogs with documents not in English are not
+relevant.
+</narr>
+
+</top>
+
+
+<top>
+<num>Number: 995</num>
+<title>ruby on rails</title>
+
+<desc> Description:
+Blogs that discuss the Ruby On Rails framework.
+</desc>
+
+<narr> Narrative:
+The relevant blogs discuss the Ruby On Rails framework.
+</narr>
+
+</top>
+
+

@@ -1,0 +1,628 @@
+<top>
+<num>CE-001</num>
+<query>genetic modification</query>
+<narr>
+Over arching information on gene technology / biotechnology. Specific pages on certain GM (e.g. cotton).
+</narr>
+<page>CSIRO135-03599247</page>
+<page>CSIRO141-08973435</page>
+<page>CSIRO141-07897607</page>
+</top>
+
+
+<top>
+<num>CE-002</num>
+<query>hairpin RNAi / gene silencing</query>
+<narr>
+Information to help scientists find out more about hairpin RNAi technology. Specific contacts to obtain vectors.
+</narr>
+<page>CSIRO197-05231046</page>
+<page>CSIRO139-13111797</page>
+<page>CSIRO145-13752815</page>
+</top>
+
+
+<top>
+<num>CE-003</num>
+<query>sustainable agriculture</query>
+<narr>
+General information about CSIRO's activities in sustainable agriculture with links to more specific research areas.
+</narr>
+<page>CSIRO144-09895603</page>
+<page>CSIRO139-13945406</page>
+</top>
+
+
+<top>
+<num>CE-004</num>
+<query>climate change</query>
+<narr>
+CSIRO has recently provided the most authoritative assessments of the likely impact of global climate change for Australia. CSIRO conducts research into the changing climate, along with the social and environmental impacts of climate change.
+</narr>
+<page>CSIRO145-04151285</page>
+<page>CSIRO142-14818718</page>
+<page>CSIRO139-00700012</page>
+</top>
+
+
+<top>
+<num>CE-005</num>
+<query>fire</query>
+<narr>
+Our research into bushfire behaviour is improving the understanding of fire, and leading to better technologies and strategies to save lives and limit damage. Includes protecting your home from bushfires, improving house design to mitigate fires, etc.
+</narr>
+<page>CSIRO139-14369784</page>
+<page>CSIRO137-16723697</page>
+<page>CSIRO265-13555832</page>
+</top>
+
+
+<top>
+<num>CE-006</num>
+<query>sustainable ecosystems</query>
+<narr>
+CSIRO Sustainable Ecosystems is focused on maintaining the sustainability of Australia's landscapes, environments and communities. With laboratories located across Australia, our research targets a diverse range of regions and sustainability issues. We're helping answer the sustainable resource and development questions critical to the future of society, industry and the environment.
+</narr>
+<page>CSIRO139-08803101</page>
+<page>CSIRO134-15377106</page>
+<page>CSIRO134-11984748</page>
+<page>CSIRO145-14323510</page>
+</top>
+
+
+<top>
+<num>CE-007</num>
+<query>air guitar / textile sensors</query>
+<narr>
+Questions from the public relate to "how does the air guitar work?", such as: How do the sensors work? How does the computer translate the gestures into music? Is it wireless? How easy is it to learn how to play? All of the web resources listed attempt to answer these questions to some degree so they are all relevant. Other relevant materials would be an overview of sensors and sensor technologies and links to work in these fields to other divisions, particularly in biomedical / health applications.
+</narr>
+<page>CSIRO145-04767447</page>
+<page>CSIRO138-15933953</page>
+<page>CSIRO138-00368059</page>
+<page>CSIRO145-05186172</page>
+<page>CSIRO140-14710325</page>
+<page>CSIRO138-00324936</page>
+<page>CSIRO138-00023148</page>
+<page>CSIRO138-00045920</page>
+<page>CSIRO265-14667001</page>
+<page>CSIRO145-05534443</page>
+</top>
+
+
+<top>
+<num>CE-008</num>
+<query>carbon nanotube yarns and sheets</query>
+<narr>
+The above documents provide a reasonably comprehensive coverage of the carbon nanotube projects at CTFT. Other valuable material would be: An overview of nanotechnology across CSIRO; Other nanotechnology projects related to those at CTFT from other divisions.
+</narr>
+<page>CSIRO144-11639940</page>
+<page>CSIRO145-10786692</page>
+<page>CSIRO139-03645257</page>
+<page>CSIRO145-04117894</page>
+<page>CSIRO138-16128375</page>
+<page>CSIRO140-03095481</page>
+<page>CSIRO140-00803668</page>
+<page>CSIRO137-15964119</page>
+<page>CSIRO141-12695094</page>
+<page>CSIRO141-16051829</page>
+<page>CSIRO142-03623579</page>
+<page>CSIRO265-12782890</page>
+<page>CSIRO145-05534443</page>
+</top>
+
+
+<top>
+<num>CE-009</num>
+<query>medical textiles / smart textiles</query>
+<narr>
+The overall topic would benefit from a cross-divisional overview on Biomedical or medical textiles (or both) and links to projects and achievements across CSIRO.
+</narr>
+<page>CSIRO145-12663639</page>
+<page>CSIRO146-16612877</page>
+<page>CSIRO145-07664557</page>
+<page>CSIRO145-04519788</page>
+<page>CSIRO138-11929259</page>
+<page>CSIRO265-13483765</page>
+<page>CSIRO139-08978229</page>
+<page>CSIRO141-12648924</page>
+<page>CSIRO141-12626651</page>
+<page>CSIRO137-16248147</page>
+</top>
+
+
+<top>
+<num>CE-010</num>
+<query>(arsenic) treated timber </query>
+<narr>
+Advice on the safety and precautions for use of 'copper log' treated pine.
+</narr>
+<page>CSIRO172-10642573</page>
+<page>CSIRO140-16046244</page>
+</top>
+
+
+<top>
+<num>CE-011</num>
+<query>world leading Australian aerospace tech </query>
+<narr>
+Australia is currently the world leader in researching working scramjet technology (ultra high velocity air breathing engines). NASA and others are working with Australian scientists because their own programs have been comparatively unsuccessful.
+</narr>
+<page>CSIRO138-10156515</page>
+</top>
+
+
+<top>
+<num>CE-012</num>
+<query>cancer risk</query>
+<narr>
+Focus on genome damage and therefore cancer risk in humans.
+</narr>
+<page>CSIRO145-10349105</page>
+<page>CSIRO140-15970492</page>
+<page>CSIRO139-07037024</page>
+<page>CSIRO138-00801380</page>
+</top>
+
+
+<top>
+<num>CE-013</num>
+<query>human clinical trials</query>
+<narr>
+Overview of the Human Nutrition Clinic facility and the latest clinical nutrition trials which are recruiting volunteers.
+</narr>
+<page>CSIRO145-08477954</page>
+<page>CSIRO145-11110519</page>
+<page>CSIRO142-02910122</page>
+</top>
+
+
+<top>
+<num>CE-014</num>
+<query>high protein diet</query>
+<narr>
+Background of the dietary trial which lead to development of Total Wellbeing Diet book, fact sheet about differing diets, etc.
+</narr>
+<page>CSIRO142-00665671</page>
+<page>CSIRO145-05770980</page>
+<page>CSIRO142-08955593</page>
+</top>
+
+
+<top>
+<num>CE-015</num>
+<query>life cycle assessment</query>
+<narr>
+Resources which discuss analysis of all associated costs across entire production chain, cradle to grave analysis, assessment of long term sustainability of industries/processes.
+</narr>
+<page>CSIRO139-00675183</page>
+<page>CSIRO145-07583643</page>
+</top>
+
+
+<top>
+<num>CE-016</num>
+<query>beneficiation</query>
+<narr>
+Resources which discuss comminution, using physical techniques such as crushing and grinding to access minerals in ore bodies.
+</narr>
+<page>CSIRO144-13425706</page>
+<page>CSIRO141-04170719</page>
+</top>
+
+
+<top>
+<num>CE-017</num>
+<query>improving cement production</query>
+<narr>
+Different techniques for slag granulation, use of waste heat, use of different materials to replace traditional Portland cement (e.g. geopolymers)
+</narr>
+<page>CSIRO145-10008313</page>
+<page>CSIRO145-05963694</page>
+</top>
+
+
+<top>
+<num>CE-018</num>
+<query>sensor networks</query>
+<narr>
+What are sensor networks? How does the technology work? What are the applications? How does it benefit farmers, consumers, etc? What has been achieved so far and when will we see them in general use?
+</narr>
+<page>CSIRO174-08739353</page>
+<page>CSIRO145-00185091</page>
+</top>
+
+
+<top>
+<num>CE-019</num>
+<query>telecollaboration and virtual offices</query>
+<narr>
+What new technologies exist to support collaboration across distance? How does it work? What can it do for my business? Is it safe, private, secure, reliable? Who is using it now?
+</narr>
+<page>CSIRO174-08210112</page>
+<page>CSIRO174-08238928</page>
+<page>CSIRO145-09640287</page>
+<page>CSIRO145-16750598</page>
+</top>
+
+
+<top>
+<num>CE-020</num>
+<query>mining robotics</query>
+<narr>
+What mining technologies can be automated? How is it done? How do robots navigate? How safe is the technology? Where is it operating? How much will it cost? Is it cost efficient for my business? How can I work with CSIRO on this?
+</narr>
+<page>CSIRO174-11148923</page>
+<page>CSIRO145-00327347</page>
+</top>
+
+
+<top>
+<num>CE-021</num>
+<query>drilling</query>
+<narr>
+What new drilling technologies are coming on stream? Diamond composite drill bits. Autonomous drilling. Drilling and cutting.
+</narr>
+<page>CSIRO148-12544210</page>
+<page>CSIRO140-04430499</page>
+<page>CSIRO145-00609060</page>
+</top>
+
+
+<top>
+<num>CE-022</num>
+<query>airborne hyperspectral</query>
+<narr>
+How effective is airborne hyperspectral sensing? Which elements can it detect? Exploration successes using hyperspectral sensing.
+</narr>
+<page>CSIRO144-14172499</page>
+<page>CSIRO148-10480844</page>
+<page>CSIRO148-10587746</page>
+</top>
+
+
+<top>
+<num>CE-023</num>
+<query>science experiments</query>
+<narr>
+Try your hand at exciting experiments and activities at home or at school with everyday equipment.Mix some slime, build a rocket or make sultanas dance!
+</narr>
+<page>CSIRO135-03057758</page>
+<page>CSIRO146-07629196</page>
+<page>CSIRO146-07085481</page>
+</top>
+
+
+<top>
+<num>CE-024</num>
+<query>Double Helix Science Club</query>
+<narr>
+Like laughing while you learn and teach? The Club has science for the young and the young at heart, for parents, students and teachers. Membership of the Club includes magazines, events, email experiments and more.
+</narr>
+<page>CSIRO135-02632945</page>
+<page>CSIRO135-06123203</page>
+</top>
+
+
+<top>
+<num>CE-025</num>
+<query>science education</query>
+<narr>
+CSIRO operates school programs around Australia including awards, competitions, student workshops and research projects, teacher professional development and teacher resources.
+</narr>
+<page>CSIRO135-03031291</page>
+<page>CSIRO135-03088202</page>
+<page>CSIRO141-05605334</page>
+<page>CSIRO142-02888789</page>
+<page>CSIRO135-02508140</page>
+</top>
+
+
+<top>
+<num>CE-026</num>
+<query>radio astronomy</query>
+<narr>
+The Parkes Observatory is operated by the Australia Telescope National Facility (ATNF). The ATNF is Australia's premier radio-astronomy institute. Radio telescopes collect and process radio waves. These waves can be used to make pictures of objects in space. CSIRO is currently involved in the development of the Square Kilometre Array(SKA), which will be the world's largest and most powerful radio telescope. Resources describing radio astronomy, telescope, observatory, radio waves and compact array would all be relevant to this topic.
+</narr>
+<page>CSIRO139-08148971</page>
+<page>CSIRO090-14725994</page>
+<page>CSIRO196-09453900</page>
+</top>
+
+
+<top>
+<num>CE-027</num>
+<query>H5NI avian influenza</query>
+<narr>
+The Australian Animal Health Laboratory (AAHL) plays a vital role in maintaining Australia’s capability to quickly diagnose exotic (foreign) and emerging animal diseases. Avian influenza virus, Type A Strain H5N1, is a virus that naturally lives in birds. Humans that have contact with infected birds can become infected. AAHL has been helping in the fight against bird flu. Resources describing biosecurity, bird flu, avian influenza, flu viruses, H5N1 would all be relevant to this topic.
+</narr>
+<page>CSIRO145-01037563</page>
+<page>CSIRO141-03129340</page>
+</top>
+
+
+<top>
+<num>CE-028</num>
+<query>air cargo scanner</query>
+<narr>
+CSIRO has developed an Air Cargo Scanner for the detection of contraband in air cargo. Existing bulk scanning technologies use high-energy x-rays to detect distinctive metal objects such as weapons, but ill-defined, organic materials such as drugs and explosives, are harder for them to detect. CSIRO's world-first scanner, shows not only the shape, but the composition of materials inside the cargo. This helps with image analysis, particularly in the detection of organic materials with ill-defined shapes such as concealed narcotics and explosives.
+</narr>
+<page>CSIRO138-00516887</page>
+</top>
+
+
+<top>
+<num>CE-029</num>
+<query>Omega-3 grains</query>
+<narr>
+CSIRO Food Futures Flagship has developed plants that produce DHA, a healthy omega-3 oil component normally only available from fish sources, and vital for human health. DHA is vital for optimal brain and eye development and is recognised for its health attributes including: lowering coronary heart disease risk, Type-2 diabetes, Alzheimer's disease and asthma. Resources describing long chain omega-3 fatty acids and DHA would be relevant to this topic.
+</narr>
+<page>CSIRO145-09143331</page>
+<page>CSIRO141-09892358</page>
+<page>CSIRO145-02664093</page>
+</top>
+
+
+<top>
+<num>CE-030</num>
+<query>T-mag</query>
+<narr>
+CSIRO's new technology, called T-Mag, produces high-integrity magnesium alloy castings from permanent moulds, free of porosity and other defects. This allows lightweight magnesium alloy engine blocks that are just as strong as the ones made the old-fashioned way, allowing cars to be much lighter. T-Mag can also cast high-integrity magnesium alloy wheels. Current casting technology cannot produce wheels of sufficient integrity to be safe and practical at an acceptable cost. Resources describing light metal production, magnesium and aluminium casting, lightweight cars and alloy blocks would all be relevant to this topic.
+</narr>
+<page>CSIRO147-01516588</page>
+<page>CSIRO138-09946612</page>
+<page>CSIRO144-14898137</page>
+</top>
+
+
+<top>
+<num>CE-031</num>
+<query>dysphagia</query>
+<narr>
+Dysphagia affects about one in twenty people and can lead to lung infections, malnourishment and death. CSIRO has developed a tiny fibre-optic catheter that detects swallowing abnormalities in a far less intrusive way than previous methods. Resources describing fibre-optic catheters would be relevant to this topic.
+</narr>
+<page>CSIRO146-16723121</page>
+<page>CSIRO138-10179903</page>
+</top>
+
+
+<top>
+<num>CE-032</num>
+<query>machine vision</query>
+<narr>
+Machine Vision is the use of computer hardware and software to analyse an image or scene to determine what it is or what is happening in it. Machine vision research is focused the development of human-eye-like capability. The CSIRO's Machine Vision research is directed at client-specific applications from the initial specification stage through to client site installation, the development of both the hardware and software solutions to clients' machine vision tasks and research aimed at expanding the circumstances where we can use known techniques and we develop new techniques to address new problems. Resources describing Safe-T-Cam and intelligent monitoring technology would be relevant to this topic.
+</narr>
+<page>CSIRO145-10523964</page>
+<page>CSIRO082-09304288</page>
+<page>CSIRO145-10265794</page>
+<page>CSIRO147-01056383</page>
+<page>CSIRO082-09180631</page>
+<page>CSIRO139-06634150</page>
+</top>
+
+
+<top>
+<num>CE-033</num>
+<query>dung beetle</query>
+<narr>
+CSIRO introduced industrious dung beetles into Australia in 1967 to dispose of cow pads that normally remained on the ground for months, even years. The work controlled the busy fly nuisance and helped to improve soil fertility. Resources describing biological control and pest management would be relevant to this topic.
+</narr>
+<page>CSIRO142-06297028</page>
+<page>CSIRO151-10127131</page>
+<page>CSIRO148-13539697</page>
+<page>CSIRO156-15099476</page>
+<page>CSIRO145-09071770</page>
+</top>
+
+
+<top>
+<num>CE-034</num>
+<query>carp</query>
+<narr>
+CSIRO is investigating a potential new biological control agent that could eradicate one Australia’s most invasive aquatic pests – carp. Current research is focused on Koi herpesvirus as a means of controlling the introduced fish and finding out whether the virus will have any impact on certain native fauna. Resources describing biological control and pest management would be relevant to this topic.
+</narr>
+<page>CSIRO138-14241750</page>
+<page>CSIRO064-15834391</page>
+<page>CSIRO139-09015831</page>
+<page>CSIRO142-02166496</page>
+</top>
+
+
+<top>
+<num>CE-035</num>
+<query>nanohouse</query>
+<narr>
+CSIRO have developed a model house that shows how new materials, products and processes that are emerging from nanotechnology research and development might be applied to our living environment. Nanotechnology is the design, fabrication, and characterisation of functional objects having dimensions at the nanometer (one billionth of a metre) length scale. Resources describing molecular and nanoscale components, industrial physics, biomimetics, nanoparticle films, biosensors and molecular electronics would all be relevant to this topic.
+</narr>
+<page>CSIRO113-00255322</page>
+<page>CSIRO144-12335500</page>
+</top>
+
+
+<top>
+<num>CE-036</num>
+<query>termites</query>
+<narr>
+Resources describing termites or ‘white ants’ as well as food identification through vibrations will all contain useful information. Current CSIRO research in termite pest management looks at deterring termites through non-chemical means using the vibrations of wood (termite food) to manipulate their feeding habits.
+</narr>
+<page>CSIRO146-00639055</page>
+<page>CSIRO139-02590561</page>
+<page>CSIRO141-08736692</page>
+<page>CSIRO149-00979277</page>
+</top>
+
+
+<top>
+<num>CE-037</num>
+<query>river Murray</query>
+<narr>
+The River Murray and its tributaries form the largest and most developed river system in Australia. Resources describing water scarcity, water limitations, surface and groundwater will all contain useful information. Current CSIRO research looks to use innovative methods to increase water productivity. In particular, the irrigation industry is exploring new opportunities for balancing the use of water for both agricultural and environmental purposes.
+</narr>
+<page>CSIRO145-09602662</page>
+<page>CSIRO144-14932416</page>
+<page>CSIRO144-14577651</page>
+<page>CSIRO117-11194409</page>
+<page>CSIRO115-14372345</page>
+<page>CSIRO142-00412073</page>
+</top>
+
+
+<top>
+<num>CE-038</num>
+<query>managing salinity</query>
+<narr>
+Salinity is one of the biggest environmental problems facing Australia. Current CSIRO research explores the implications of different pressures on river water, such as upland land use change, climate change, salinity, and groundwater balance. CSIRO has also discovered two new wheat genes for sodium exclusion that enhances its salt tolerance. Resources describing salinity, soil acidity, irrigated salinity or dryland salinity would all be relevant to the topic.
+</narr>
+<page>CSIRO115-10899352</page>
+<page>CSIRO115-10917101</page>
+<page>CSIRO116-08117700</page>
+<page>CSIRO144-14064269</page>
+<page>CSIRO145-14143039</page>
+<page>CSIRO142-08127945</page>
+</top>
+
+
+<top>
+<num>CE-039</num>
+<query>cane toads</query>
+<narr>
+Cane toads were introduced into Australia in a failed bid to control Australian native beetles. Since then they have spread across 500 000 square kilometres of Australia’s north-east. Current CSIRO research centres on the development of biological control agent for cane toads. CSIRO researchers are working to engineer a virus that could be used to control the cane toad. Resources describing cane toads, invasive species, pest management, biological control would all be relevant to the topic.
+</narr>
+<page>CSIRO141-14983789</page>
+<page>CSIRO139-09015831</page>
+<page>CSIRO134-11651748</page>
+</top>
+
+
+<top>
+<num>CE-040</num>
+<query>Southern Surveyor</query>
+<narr>
+The RV Southern Surveyor supports research across Australia's vast ocean territory and adjoining oceans. The vessel is a National Facility that is available for charter by marine scientists. It is a platform for oceanographic, geo-scientific, fishery and ecosystem research.
+</narr>
+<page>CSIRO141-04317784</page>
+<page>CSIRO185-05520772</page>
+</top>
+
+
+<top>
+<num>CE-041</num>
+<query>solar energy</query>
+<narr>
+CSIRO is undertaking a solar research program to enable us to move to a renewable energy supply. The National Solar Energy Centre has been established to research, develop and demonstrate world-leading solar thermal. Current CSIRO research focuses SolarGas, solar heating and cooling systems, organic solar cells, solar cell efficiency, storage of solar energy and the integrations of solar energy with current energy systems.
+</narr>
+<page>CSIRO148-04661866</page>
+<page>CSIRO138-11063507</page>
+</top>
+
+
+<top>
+<num>CE-042</num>
+<query>ocean currents and conditions</query>
+<narr>
+CSIRO is monitoring Australian ocean conditions to increase our understanding of ocean processes and their influence on our climate. Current areas of research include; ocean heat transport and circulation, the Antarctic coastal region, the Antarctic Circumpolar Current that connects all of the major ocean basins to the south of Australia and the Indonesian Throughflow. Research describing oceans conditions, currents and the hydrological cycle would all be relevant to the topic.
+</narr>
+<page>CSIRO135-03414822</page>
+<page>CSIRO124-07467254</page>
+<page>CSIRO145-10189691</page>
+<page>CSIRO139-02692775</page>
+<page>CSIRO185-10705181</page>
+</top>
+
+
+<top>
+<num>CE-043</num>
+<query>resilin</query>
+<narr>
+A team of CSIRO scientists have copied resilin, the elastic protein that facilitates flight and jumping in insects. Resilin is a protein that never wears out. The new resilin rubber has near-perfect resilience and CSIRO is currently exploring the possibility of using it in biomedical implants.
+</narr>
+<page>CSIRO147-01342115</page>
+<page>CSIRO144-16177407</page>
+<page>CSIRO139-03983125</page>
+<page>CSIRO146-15707783</page>
+</top>
+
+
+<top>
+<num>CE-044</num>
+<query>rabbits</query>
+<narr>
+The introduction in 1950 of myxomatosis wiped out 99 per cent of Australia's rabbits and recovered the wool and meat industries within two years. CSIRO is now developing the strain of meat rabbit that selecting for traits of prime economic importance to meat rabbit production. Resources describing pest management, myxomatosis and Crusader meat rabbit would all be relevant to this topic.
+</narr>
+<page>CSIRO145-16310991</page>
+</top>
+
+
+<top>
+<num>CE-045</num>
+<query>cloud seeding</query>
+<narr>
+Cloud seeding is a way of trying to artificially generate additional rainfall from clouds. In 1947 CSIRO scientists conducted the first successful cloud seeding experiments, making rain fall near Bathurst, NSW.
+</narr>
+</top>
+
+
+<top>
+<num>CE-046</num>
+<query>recycled water</query>
+<narr>
+Water reuse has the potential to be a major part of the total water cycle in Australia. CSIRO researcher focuses on using injection wells to put extra water into natural aquifers, to artificially recharge the groundwater. Resources describing water reclamation, grey water, recycled water, water management and aquifer recharge would all be relevant to the topic.
+</narr>
+<page>CSIRO115-10828578</page>
+<page>CSIRO145-13680350</page>
+<page>CSIRO115-10845509</page>
+<page>CSIRO140-15078278</page>
+<page>CSIRO117-09312660</page>
+</top>
+
+
+<top>
+<num>CE-047</num>
+<query>invasive plant species</query>
+<narr>
+CSIRO research is helping to manage the increasing threat and damage from invasive alien species. CSIRO research areas include the risk assessments of potential exotic pests, designing crops resistant to known threats, border protection and management of impacts and threats from invasive species.
+</narr>
+<page>CSIRO145-01076966</page>
+<page>CSIRO145-09071770</page>
+<page>CSIRO139-11886835</page>
+<page>CSIRO139-11725066</page>
+<page>CSIRO140-03134137</page>
+</top>
+
+
+<top>
+<num>CE-048</num>
+<query>polymer bank notes</query>
+<narr>
+CSIRO helped develop the world’s first polymer banknote, creating the most secure currency in the world. CSIRO's expertise in polymer and synthetic chemistry was used to develop a non-fibrous and non-porous plastic film, which the banknotes are printed on. This material gives high tear resistance and a longer lifetime than paper.
+</narr>
+<page>CSIRO145-10634137</page>
+<page>CSIRO145-09420609</page>
+</top>
+
+
+<top>
+<num>CE-049</num>
+<query>atmosphere</query>
+<narr>
+CSIRO research investigates three main areas relating to the topic of living atmosphere. CSIRO seeks to develop its air-quality science with maximum community benefit for a healthier atmosphere, to understand the composition and sources of our changing atmosphere and thirdly, to understand the land and atmosphere systems which will inform and improve natural resource management and climate predictions.
+</narr>
+<page>CSIRO145-15596248</page>
+<page>CSIRO145-02817415</page>
+<page>CSIRO145-02853112</page>
+<page>CSIRO120-01949967</page>
+<page>CSIRO140-02498478</page>
+<page>CSIRO140-06484033</page>
+</top>
+
+
+<top>
+<num>CE-050</num>
+<query>air pollution</query>
+<narr>
+CSIRO atmospheric scientists are measuring, monitoring and analysing air pollution. CSIRO's air-quality science provides understanding of air pollutants, guidance for managing air quality and improved management tools. The Cape Grim Baseline Air Pollution Station, located in remote north-western Tasmania, provides vital information about changes to the atmospheric composition of the Southern Hemisphere.
+</narr>
+<page>CSIRO145-16135941</page>
+<page>CSIRO144-16031155</page>
+<page>CSIRO141-02994489</page>
+<page>CSIRO144-16285399</page>
+</top>

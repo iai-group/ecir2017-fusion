@@ -1,0 +1,50 @@
+CE-001 genetic modification
+CE-002 hairpin RNAi / gene silencing
+CE-003 sustainable agriculture
+CE-004 climate change
+CE-005 fire
+CE-006 sustainable ecosystems
+CE-007 air guitar / textile sensors
+CE-008 carbon nanotube yarns and sheets
+CE-009 medical textiles / smart textiles
+CE-010 (arsenic) treated timber 
+CE-011 world leading Australian aerospace tech 
+CE-012 cancer risk
+CE-013 human clinical trials
+CE-014 high protein diet
+CE-015 life cycle assessment
+CE-016 beneficiation
+CE-017 improving cement production
+CE-018 sensor networks
+CE-019 telecollaboration and virtual offices
+CE-020 mining robotics
+CE-021 drilling
+CE-022 airborne hyperspectral
+CE-023 science experiments
+CE-024 Double Helix Science Club
+CE-025 science education
+CE-026 radio astronomy
+CE-027 H5NI avian influenza
+CE-028 air cargo scanner
+CE-029 Omega-3 grains
+CE-030 T-mag
+CE-031 dysphagia
+CE-032 machine vision
+CE-033 dung beetle
+CE-034 carp
+CE-035 nanohouse
+CE-036 termites
+CE-037 river Murray
+CE-038 managing salinity
+CE-039 cane toads
+CE-040 Southern Surveyor
+CE-041 solar energy
+CE-042 ocean currents and conditions
+CE-043 resilin
+CE-044 rabbits
+CE-045 cloud seeding
+CE-046 recycled water
+CE-047 invasive plant species
+CE-048 polymer bank notes
+CE-049 atmosphere
+CE-050 air pollution

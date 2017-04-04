@@ -1,0 +1,2630 @@
+<FedWeb_topics>
+  <topic evaluation="TREC" id="7001" official="FedWeb13" origin="new">
+    <query>LHC collision publications</query>
+    <description>You want to find scientific publications on LHC (Large Hadron Collider (LHC)) collisions. Books or scientific video lectures are accepted, too.</description>
+    <narrative>You want to study the most recent knowledge on the topic in depth. You expect scientific publications to be most helpful, including books (you might consider buying one), but scientific video lectures or encyclopedia might be interesting as well.</narrative>
+  </topic>
+  <topic evaluation="None" id="7002" official="FedWeb13" origin="new">
+    <query>exhaled NO IBS papers</query>
+    <description>You want to know if there exist any papers on exhaled NO (nitric oxide) in combination with IBS (irritable bowel syndrome)</description>
+    <narrative>You are writing a thesis on the connection between exhaled NO and IBD (inflammatory bowel disease) and are looking for related work.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7003" official="FedWeb13" origin="new">
+    <query>Male circumcision</query>
+    <description>You need information about (the pros and cons of) male circumcision</description>
+    <narrative>You have to make a scientific overview of the latest knowledge on male circumcision, with evidence-based pros and cons, including medical, psychological, and social information.&#13;
+To this end, you first need to delve into the latest research, including papers, videos, books, pictures etc...&#13;
+Especially information on male circumcision itself is important, whereas for instance information solely focusing on the link between circumcision and HIV is less relevant.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7004" official="FedWeb13" origin="new">
+    <query>z-machine</query>
+    <description>You are looking for information about a z-machine</description>
+    <narrative>You have no idea what a z-machine is, but the colleagues are talking about it in relation to nuclear energy; and you quickly want to get at least an idea of what it is. Most relevant are pages that cover the functionality of a Z-machine, like dedicated encyclopedia articles.</narrative>
+  </topic>
+  <topic evaluation="None" id="7005" official="None" origin="new">
+    <query>&amp;quot;kyle guan&amp;quot; 2011</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7006" official="None" origin="new">
+    <query>protege pizza tutorial</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7007" official="FedWeb13" origin="new">
+    <query>Allen Ginsberg Howl review</query>
+    <description>You are looking for a thorough text review of Howl from Allen Ginsberg.</description>
+    <narrative>You are intrigued by Howl from Ginsberg and want to know more about it. Detailed reviews are therefore most relevant. Besides that, you are also interested in background information about Howl and Ginsberg, which you consider somewhat less relevant than the reviews.</narrative>
+  </topic>
+  <topic evaluation="None" id="7008" official="FedWeb13" origin="new">
+    <query>jesse van ruller solo transcriptions</query>
+    <description>You are looking for any transcription of a guitar solo by Jesse van Ruller.</description>
+    <narrative>You are preparing a small performance on guitar, during which you want to play a solo from Jesse Van Ruller. You need a suitable transcription for that, but you don&amp;#039;t want to spend any money. Also, you are not interested in videos with solos from Van Ruller. &#13;
+</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7009" official="FedWeb13" origin="new">
+    <query>linkedin engineering</query>
+    <description>You want to find information about engineering at linkedin.</description>
+    <narrative>You have just graduated as an engineer, and made your LinkedIn account. You are now looking for information about engineering at LinkedIn. More specifically: you need to navigate to http://engineering.linkedin.com/, although related sites might be useful, too. </narrative>
+  </topic>
+  <topic evaluation="None" id="7010" official="FedWeb13" origin="new">
+    <query>manchester united FC football</query>
+    <description>You are looking for information (e.g., blogs) from Manchester fan clubs</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7011" official="FedWeb14" origin="new">
+    <query>Vera Pavlova</query>
+    <description>You would like to find out how popular the Russian poetess Vera Pavlova is in America, by trying to find her in American blogs.</description>
+    <narrative>At a poetry reading a poem by Vera Pavlova is read. You feel somewhat embarrassed for not knowing her name and you wonder how popular she is amongst other Americans to see if you&amp;#039;re the only one not knowing her. Her own personal website is still a useful source of information but not as useful as references on other websites and blogs.</narrative>
+  </topic>
+  <topic evaluation="None" id="7012" official="None" origin="new">
+    <query>animal farm</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7013" official="None" origin="new">
+    <query>hunger games</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="online" id="7014" official="FedWeb14" origin="new">
+    <query>Asian culture</query>
+    <description>You are looking for a book on Asian culture</description>
+    <narrative>You are about to traveling to China for an exchange program this summer. You have never been to far east and would like to know a bit more about the Asian culture before you travel there. For example, what traditional festivals are there? What food do they eat?&#13;
+Books or Encyclopedia providing comprehensive information on this could be relevant. Other sources showing particular aspects could be useful too.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7015" official="FedWeb14" origin="new">
+    <query>the raven</query>
+    <description>You are looking for the poem &amp;#039;the raven&amp;#039; by Edgar Allan Poe.</description>
+    <narrative>You are looking for the poem &amp;#039;The raven&amp;#039; by Edgar Allan Poe. You have not read it yet, so results that allow you to obtain (buy) the poem are useful. Results that provide you with more background information on the poem are relevant as well.</narrative>
+  </topic>
+  <topic evaluation="None" id="7016" official="None" origin="new">
+    <query>Life is but a poor player</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7017" official="None" origin="new">
+    <query>chick corea elektric band free sheet music</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7018" official="FedWeb13" origin="new">
+    <query>audiobook Raymond e feist</query>
+    <description>You are looking for audiobooks by Raymond E Feist.</description>
+    <narrative>You need to read a book from that author, but you don&amp;#039;t know what the options are, and you don&amp;#039;t like reading. Hence, you are looking for audiobooks: which ones are available, and where to buy them. &#13;
+&#13;
+Most important are results that provide them for sale or for download. However, pages about the correct audiobooks are also highly relevant, even when you cannot directly download or buy them on the site.</narrative>
+  </topic>
+  <topic evaluation="online" id="7019" official="FedWeb14" origin="new">
+    <query>Alek Wek</query>
+    <description>You are looking for information about Alek Wek.</description>
+    <narrative>Lately you have been hearing about Alek Wek, but you don&amp;#039;t know much about her. You want to know more about her background. Who did she work for? Where is she from? Pictures and videos are also helpful.</narrative>
+  </topic>
+  <topic evaluation="None" id="7020" official="FedWeb13" origin="new">
+    <query>synovial joint</query>
+    <description>You&amp;#039;ve come across the term &amp;#039;synovial joint&amp;#039;, and you just wonder what joint it is. </description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7021" official="None" origin="new">
+    <query>Dutch pronunciation &amp;#039;idealiter&amp;#039;</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="online" id="7022" official="FedWeb14" origin="new">
+    <query>hermitian conjugate</query>
+    <description>You want to know what the hermitian conjugate of a matrix is.</description>
+    <narrative>While learning for one of your engineering courses, you come across the term &amp;#039;hermitian conjugate&amp;#039;. You once knew how it was defined, but need a quick reminder. The simpler the page you find, the better, but the definition should be clearly indicated. </narrative>
+  </topic>
+  <topic evaluation="None" id="7023" official="FedWeb13" origin="new">
+    <query>calculate jordan normal form</query>
+    <description>What is the Jordan normal form of a matrix and how can it be calculated?</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7024" official="FedWeb14" origin="new">
+    <query>reinforcement learning</query>
+    <description>You want to learn more about reinforcement learning.</description>
+    <narrative>You want to learn about reinforcement learning, a machine learning method. You are especially interested in free online resources suitable for people with a machine learning background, but who are new to reinforcement learning: videos, websites, free books, etc. Scientific papers that are not introductory papers about reinforcement learning are not relevant.&#13;
+Software/code is also not relevant. Books (not free) are only marginally relevant.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7025" official="FedWeb13" origin="new">
+    <query>M/G/1 queue</query>
+    <description>You want to know what an M/G/1 queue is. </description>
+    <narrative>You&amp;#039;ve come across that term, and want to know what it means. &#13;
+Results that specifically focus on &amp;#039;what is an M/G/1 queue&amp;#039; are most important, but results that compare them to other queues might be interesting as well. </narrative>
+  </topic>
+  <topic evaluation="None" id="7026" official="FedWeb13" origin="new">
+    <query>keanu reeves films</query>
+    <description>You want to find an overview of the filmography of Keanu Reeves.</description>
+    <narrative>You are a huge fan of Keanu Reeves, and want to see if you missed any films. Ideally, there&amp;#039;s a short description of each movie, and the year in which it was made. </narrative>
+  </topic>
+  <topic evaluation="None" id="7027" official="FedWeb13" origin="new">
+    <query>prefered or preferred</query>
+    <description>You want to know the correct spelling + information on the grammar of why that is so.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7028" official="None" origin="new">
+    <query>instead</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7029" official="FedWeb13" origin="new">
+    <query>best buy store closings</query>
+    <description>You want to read the latest news about best buy closing some of its stores.</description>
+    <narrative>You are a regular customar of Best Buy stores, and heard someone say some of the stores are closing. Now you want to know what exactly is going on. Most relevant to your query is news about those stores that are closing. Information about the closing of Best Buy stores in general is also highly relevant, whereas information about the stores in general would be less relevant.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7030" official="FedWeb13" origin="new">
+    <query>Lyrics Bangarang</query>
+    <description>You are looking for the lyrics of the song &amp;quot;Bangarang&amp;quot; by Skrillex.</description>
+    <narrative>You don&amp;#039;t understand the words from the song, so you would like to take a look at the lyrics. A movie is not very handy, because there you would first have to find the specific parts you are looking for.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7031" official="FedWeb13" origin="new">
+    <query>Thomas test</query>
+    <description>You want to learn how to perform the Thomas&amp;#039; test (in orthopaedics).</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7032" official="None" origin="new">
+    <query>Jack russel terrier</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7033" official="FedWeb13" origin="new">
+    <query>Porto</query>
+    <description>You want to visit Porto and are trying to find travel tips, hotels, bars,...</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7034" official="FedWeb13" origin="new">
+    <query>sony vaio laptop</query>
+    <description>You want to buy a sony vaio laptop.</description>
+    <narrative>Your old sony vaio laptop finally broke down, but as you were a real fan of it, you want a new laptop (not second hand) from the same brand. You will buy it over the internet, and are not looking for reviews.&#13;
+Top results are online stores with a large assortment of vaio laptops.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7035" official="None" origin="new">
+    <query>scholarship university Belgium</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7036" official="FedWeb14" origin="new">
+    <query>holiday houses ardennes</query>
+    <description>I want to rent a holiday house in the Ardennes</description>
+    <narrative>I would like to spend a summer vacation for a week in Ardennes. Therefore, you want to rent a holiday house in the Ardennes. Website that directly provides house rent information is relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7037" official="FedWeb13" origin="new">
+    <query>how to write journalistic review</query>
+    <description>You are looking for information on how to write a journalistic review of a book/film/...</description>
+    <narrative>For school, you need to write a review about the book or film of your choice, and you are looking for some ideas. &#13;
+Especially directly accessible results that describe how you can write a review are top (if you need to pay or download an extra file, it might still be highly relevant, but no longer top). Existing reviews might serve as a source of inspiration, and can be somewhat relevant, too. </narrative>
+  </topic>
+  <topic evaluation="None" id="7038" official="None" origin="new">
+    <query>hp scanjet 2400 software</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7039" official="FedWeb13" origin="new">
+    <query>import .csv excel</query>
+    <description>You want to know how a .csv file can be imported in excel.</description>
+    <narrative>You need to import a .csv file in Excel, but you don&amp;#039;t know that data type, and have no idea how to open it in Excel.&#13;
+Especially Excel help pages from Microsoft on this topic are relevant, but dedicated videos or tutorials are also fine.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7040" official="FedWeb13" origin="new">
+    <query>vom fass gent</query>
+    <description>You want to find the phone number of the &amp;#039;Vom Fass&amp;#039;-shop in Ghent?</description>
+    <narrative>You want to make an order in the Vom Fass shop in Ghent, by phone.&#13;
+Even though you are interested in general information about the shop, you are in the first place looking for contact details, and more specifically their phone number. &#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7041" official="None" origin="new">
+    <query>mockup</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7042" official="FedWeb13" origin="new">
+    <query>bmw c1</query>
+    <description>You want to know what a BMW C1 motorcycle looks like.</description>
+    <narrative>You read that the BMW C1 would be a special case, as a motorcycle, so you wonder what it looks like, that&amp;#039;s all. </narrative>
+  </topic>
+  <topic evaluation="None" id="7043" official="FedWeb13" origin="new">
+    <query>rhapsody in blue sheet piano</query>
+    <description>You want to find the sheet music of Gershwin&amp;#039;s Rhapsody in Blue for piano solo.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7044" official="FedWeb14" origin="new">
+    <query>song of ice and fire</query>
+    <description>You are looking for general information about these books (content/reviews).</description>
+    <narrative>You want to find out if it&amp;#039;s worth reading the &amp;quot;A Song of Ice and Fire&amp;quot; saga after you&amp;#039;ve already seen the first seasons of the tv series Game of Thrones. This can be derived from reviews as well as extensive fan websites about the world created in the books. Information solely about the tv series is not as important.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7045" official="FedWeb14" origin="new">
+    <query>Natural Parks America</query>
+    <description>You would like to know more about Natural parks in the US.</description>
+    <narrative>You are panning a trip to the United States. You are looking for more information on natural parks, to help you decide which ones you will visit.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7046" official="FedWeb13" origin="new">
+    <query>tuning fork</query>
+    <description>You want to buy a tuning fork.</description>
+    <narrative>You want to buy a tuning fork for tuning your violin (and more specifically, the actual, old-fashioned device, not an online or digital tool).&#13;
+Since you are looking for a musical tuning fork, everything that is related to testing your hearing, is not relevant.&#13;
+Especially online webshops that have tuning forks for sale are important. &#13;
+</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7047" official="FedWeb13" origin="new">
+    <query>Dewar flask</query>
+    <description>You would like to know how a Dewar flask works.</description>
+    <narrative>In fact, you want to get to know the physical principles behind a Thermos vacuum flask.</narrative>
+  </topic>
+  <topic evaluation="None" id="7048" official="FedWeb13" origin="new">
+    <query>pictures auvergne</query>
+    <description>You want to get a general impression of the nature in the region &amp;#039;auvergne&amp;#039; in France.</description>
+    <narrative>You are planning a trip to France, and want to get an overview of what that region would be like. Most relevant are results which provide a whole collection of pictures from the Auvergne, but individual pictures are highly relevant as well.</narrative>
+  </topic>
+  <topic evaluation="None" id="7049" official="None" origin="new">
+    <query>dnsmasq dns forwarder</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7050" official="FedWeb13" origin="new">
+    <query>spotvps review</query>
+    <description>You want to find out how spotvps is doing, before buying vps from them.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7051" official="FedWeb13" origin="new">
+    <query>dinosaur names</query>
+    <description>You want to find a list of dinosaur names.</description>
+    <narrative>You are a system administrator who wants to give his servers some fancy names, and are therefore looking for a list of dinosaurs.</narrative>
+  </topic>
+  <topic evaluation="None" id="7052" official="FedWeb13" origin="new">
+    <query>hotel bruges</query>
+    <description>You want to find a list of hotels in Bruges.</description>
+    <narrative>You are making a citytrip to Bruges and are looking for a hotel. &#13;
+Initially, you are thinking of navigating to a hotel search engine (like booking.com). &#13;
+However, sites that provide ideas for a weekend in Bruges and provide information about the best hotels, are also key. Pages from specific hotels in Bruges are highly relevant, whereas pages that only discuss Bruges, with maybe some pointers to hotels, are less relevant. </narrative>
+  </topic>
+  <topic evaluation="None" id="7053" official="FedWeb13" origin="new">
+    <query>nintendo 3ds hack</query>
+    <description>You are looking for information on how to softmod a nintendo 3ds console</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7054" official="FedWeb13" origin="new">
+    <query>yarra valley sightseeing</query>
+    <description>You are looking for interesting places to see and visit in Yarra Valley, Australia</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7055" official="None" origin="new">
+    <query>first chicken or egg</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7056" official="FedWeb13" origin="new">
+    <query>ROADM</query>
+    <description>You want to know what this acronym stands for.</description>
+    <narrative>In your electronics textbook, you found the term ROADM, without further explanation. You want to know what the acronym stands for. Results that provide the answer and deal with the right context (=electronics) are the most relevant ones. </narrative>
+  </topic>
+  <topic evaluation="None" id="7057" official="FedWeb13" origin="new">
+    <query>web of science</query>
+    <description>You want to navigate to the website of the Web of Knowledge but don&amp;#039;t know the url. </description>
+    <narrative>[correct answer for navigational query: url starts with http://apps.webofknowledge.com]</narrative>
+  </topic>
+  <topic evaluation="None" id="7058" official="None" origin="new">
+    <query>game of thrones episodes s2</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7059" official="FedWeb13" origin="new">
+    <query>doctor Amsterdam</query>
+    <description>You are looking for a job as a doctor in Amsterdam</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7060" official="FedWeb13" origin="new">
+    <query>jobs IBCN</query>
+    <description>You want to know what jobs there are at IBCN (Internet Based Communication Networks and Services, Ghent University)?</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7061" official="FedWeb13" origin="new">
+    <query>startup advisors chicago</query>
+    <description>You are looking for startup advisors in chicago</description>
+    <narrative>You want to found your own law firm in Chicago, and wonder who to contact first to help you with that. You are also looking for dedicated websites that can give you practical advice for your startup.  &#13;
+&#13;
+Sites with general information about starting a company, irrespective of the region, might be interesting, but direct sources targetting startups in Chicago are the most relevant ones.</narrative>
+  </topic>
+  <topic evaluation="None" id="7062" official="FedWeb13" origin="new">
+    <query>marquette university news</query>
+    <description>You are looking for news about marquette university.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7063" official="FedWeb13" origin="new">
+    <query>Spanish unemployment</query>
+    <description>You are searching for the latest news about the Spanish unemployment</description>
+    <narrative>You are well aware of the unemployment situation in Spain, and want to know if anything has changed recently. &#13;
+[the data were crawled in March, 2013].&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7064" official="FedWeb13" origin="new">
+    <query>Korea weather</query>
+    <description>You are looking for the weather forecast of korea.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7065" official="FedWeb13" origin="new">
+    <query>disney easter dessert recipes</query>
+    <description>You want to find disney easter dessert recipes</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="online" id="7066" official="FedWeb14" origin="new">
+    <query>awk trim non-printable characters</query>
+    <description>You need to know how you can remove non-printable characters from an input text file with awk</description>
+    <narrative>For your computer architecture course, you need to trim non-printable characters from the input files, and you know that&amp;#039;s possible with awk, you just don&amp;#039;t remember the exact syntax. Rather than going through the whole awk manual, you need a quick answer to your query.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7067" official="FedWeb13" origin="new">
+    <query>used kindle</query>
+    <description>You want to buy a used kindle. </description>
+    <narrative>You want to buy a second hande e-reader, and you heard the Amazon Kindle would be the best.&#13;
+General information about the Kindle is interesting for making you choice, but you are mostly looking for specific offers of Kindles on shopping sites. &#13;
+</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7068" official="FedWeb13" origin="new">
+    <query>Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition</query>
+    <description>You want to buy the book with that title, written by Jurasky (the 2008 edition).</description>
+    <narrative>For your job, you need this book, and your boss is willing to pay. Therefore, you are looking for a convenient online offer.&#13;
+&#13;
+Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7069" official="FedWeb13" origin="new">
+    <query>Eames chair</query>
+    <description>You want to buy a lounge chair by eames.</description>
+    <narrative>Your boyfriend would like to have an Eames lounch chair, so you want to find one online. &#13;
+First of all, you are looking for shopping sites that have them for sale. &#13;
+Since you don&amp;#039;t know much about it, related information (e.g., pictures) is also welcome. &#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7070" official="FedWeb13" origin="new">
+    <query>compact flash memory card</query>
+    <description>You are looking for a new memory card for a digital camera (information + you want to buy)</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7071" official="FedWeb13" origin="new">
+    <query>buy LP politics yellowjackets</query>
+    <description>You want to buy the LP (vinyl) &amp;#039;Politics&amp;#039; recorded by the Yellowjackets.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7072" official="FedWeb14" origin="new">
+    <query>price gibson howard roberts custom</query>
+    <description>You want to know the average price for a Gibson &amp;#039;Howard roberts custom&amp;#039; guitar</description>
+    <narrative>One of your closest friends is getting married. He is a really good guitar player and his soon-to-be wife hints that he has always wanted a Gibson &amp;#039;Howard Roberts&amp;#039; guitar. To get an idea of how many people should be asked to chip in to buy this great gift, you want to find out how much it would cost on average. Only actual offers and price ranges are really important, not descriptions or reviews.</narrative>
+  </topic>
+  <topic evaluation="None" id="7073" official="FedWeb13" origin="new">
+    <query>buy bausack</query>
+    <description>You want to buy the board game &amp;#039;bausack&amp;#039;.</description>
+    <narrative>You are looking for a web shop, where you can buy the game with a simple click on the button, so to speak. </narrative>
+  </topic>
+  <topic evaluation="None" id="7074" official="None" origin="new">
+    <query>deuren dhont</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7075" official="FedWeb13" origin="new">
+    <query>zimerman chopin ballade</query>
+    <description>You are looking for a sound file or video of one of Chopin&amp;#039;s ballades, interpreted by Zimerman.</description>
+    <narrative>You want to play one of Chopin&amp;#039;s ballades, and in order to choose one, you want to listem to them first. Most relevant are interpretations of the ballades by Zimerman, as you heard he is a great Chopin interpreter. You don&amp;#039;t want to pay for it, and you are not looking for scores either.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7076" official="FedWeb13" origin="new">
+    <query>Bouguereau</query>
+    <description>You are looking for pictures of paintings made by Bouguereau.</description>
+    <narrative>I am writing a paper about Bouguereau, for which I need pictures of some of his work.</narrative>
+  </topic>
+  <topic evaluation="None" id="7077" official="FedWeb13" origin="new">
+    <query>django django</query>
+    <description>You want to find songs from the album django django by the music group django django.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7078" official="FedWeb13" origin="new">
+    <query>count in korean</query>
+    <description>You are looking for a video or sound file to teach you how to count to 10 in Korean</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7079" official="FedWeb13" origin="new">
+    <query>a-team theme music</query>
+    <description>You&amp;#039;re looking for the theme music of the A-Team.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7080" official="FedWeb13" origin="new">
+    <query>lord of the rings hobbits theme</query>
+    <description>You are looking for the theme music of the hobbits, from the movie Lord of the Rings</description>
+    <narrative>You primarily want to hear the song, not necessarily download it. In any case, you are not willing to pay for it.</narrative>
+  </topic>
+  <topic evaluation="None" id="7081" official="FedWeb13" origin="new">
+    <query>translation bloopers</query>
+    <description>You are looking for short movies that show how difficult it can be to translate (e.g., problems with different cultural habits, strange sayings,small nuances in meaning...)</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7082" official="FedWeb13" origin="new">
+    <query>The raven</query>
+    <description>You are looking for the song &amp;#039;The Raven&amp;#039; of Lou Reed, based on a poem of Edgar Allen Poe.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7083" official="FedWeb13" origin="new">
+    <query>I&amp;#039;m on the road again</query>
+    <description>You&amp;#039;re looking for a song, but you don&amp;#039;t remember who wrote/sings it, and you&amp;#039;d like to find out.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7084" official="FedWeb13" origin="new">
+    <query>Burn after reading review</query>
+    <description>You want to read some reviews about the movie &amp;#039;burn after reading&amp;#039;.</description>
+    <narrative>You are a huge fan of films from the Coen Brothers, and want to write a small piece about &amp;#039;Burn After Reading&amp;#039; in a student magazine. Before getting started, you want to read some online reviews about it.</narrative>
+  </topic>
+  <topic evaluation="None" id="7085" official="FedWeb14" origin="new">
+    <query>Adam rogers music</query>
+    <description>You want to hear some Audio samples of Adam Rogers&amp;#039; music</description>
+    <narrative>You&amp;#039;re opening a hip new jazz bar in Chicago and want to have a big name in the jazz world as an act on your opening night. You&amp;#039;re looking into Adam Rogers and want to listen to some samples of his recordings.</narrative>
+  </topic>
+  <topic evaluation="None" id="7086" official="FedWeb14" origin="new">
+    <query>falsifying pictures 21st centurie</query>
+    <description>Everyone know the pictures of Stalin, where the image of Trotsky was whiped out. You&amp;#039;re looking for recent pictures like that.</description>
+    <narrative>As you are a cool young history teacher in high school, you want to show your students the importance of propaganda. To prove your point you want to show them falsified pictures throughout history but you already have enough examples from the 20st century and need some more from the 21st.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7087" official="FedWeb13" origin="new">
+    <query>Jonathan Kreisberg discography</query>
+    <description>You want to get a list with all the recordings of Jonathan Kreisberg.</description>
+    <narrative>You are collecting his recordings, and want to know which albums you don&amp;#039;t yet have. A full list of his recordings is most relevant, but specific information about Keisberg might be highly relevant, too. </narrative>
+  </topic>
+  <topic evaluation="None" id="7088" official="FedWeb14" origin="new">
+    <query>Ezz-thetic </query>
+    <description>You want to know which other recordings there are of the tune ezz-thetic by George Russell.</description>
+    <narrative>You&amp;#039;re studying to be a jazz composer and have to make an analysis of the tune Ezz-thetic, composed by George Russell. You want to find other recordings of it so you can make an elaborate analysis and comparison. Both the recordings themself and information on who actually made them are useful.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7089" official="FedWeb13" origin="new">
+    <query>varese ionisation</query>
+    <description>You&amp;#039;re looking for a sound (or video) file with &amp;#039;ionisation&amp;#039; by Edgar Varese.</description>
+    <narrative>You heard &amp;#039;ionisation&amp;#039; on a concert and would like to see/hear it again online. </narrative>
+  </topic>
+  <topic evaluation="TREC" id="7090" official="FedWeb13" origin="new">
+    <query>eurovision 2012</query>
+    <description>You want to find out who was the winner of the Eurovision song contest 2012.</description>
+    <narrative>Your little sister wants to know who won the contest in 2012. You are not at all interested in this, but you quickly look it up anyway. You need the artist (answer: Loreen) and the country (answer: Sweden). &#13;
+The faster you know these two facts, the better. It&amp;#039;s even better if also the song title is mentioned (anticipating on your sister&amp;#039;s next question; answer: Euphoria).</narrative>
+  </topic>
+  <topic evaluation="None" id="7091" official="FedWeb13" origin="new">
+    <query>don&amp;#039;t listen to a word i say</query>
+    <description>You are looking for the lyrics of a songs containing the above mentioned sentence in order to find the corresponding song/artist.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7092" official="FedWeb14" origin="new">
+    <query>How much was a gallon of gas during depression</query>
+    <description>You need to know how much a gallon of gas cost during depression</description>
+    <narrative>You are writing an article for a consumer magazine on the cost of living throughout history and need to know the cost of gas during the mid 1930s. The price of other products during that time is still relevant, as is the price of gas in other periods, but you are looking for an exact price of gas from the 1930s.</narrative>
+  </topic>
+  <topic evaluation="None" id="7093" official="FedWeb13" origin="new">
+    <query>What do i need to go fly fishing?</query>
+    <description>You want to find out what you need to go fly fishing.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7094" official="FedWeb13" origin="new">
+    <query>calculate inertia sphere</query>
+    <description>You want to know how to calculate the inertia of a sphere.</description>
+    <narrative>You know how the inertia is defined, but you don&amp;#039;t feel like deriving the formula for a sphere all the way from the start, so you are quickly trying to find it online.</narrative>
+  </topic>
+  <topic evaluation="None" id="7095" official="FedWeb13" origin="new">
+    <query>iron in water supply</query>
+    <description>You want to know if it is harmless to have a lot of iron in the drinking water (from old pipes). </description>
+    <narrative>You wonder whether the color of your tap water indicates a high level of iron, and if so, whether that is safe to drink. &#13;
+Especially pages with a clear and extensive explanation are important, but discussions on interactive forums might be interesting, too.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7096" official="FedWeb13" origin="new">
+    <query>touchpad scroll dell latitude</query>
+    <description>You want to find out how to enable the Touch Pad Scroll Feature on your laptop (Dell Latitude).</description>
+    <narrative>You have a new laptop, but you don&amp;#039;t find how to activate the scrollpad. You don&amp;#039;t want to spend much time, and are quickly looking for the answer online. Most relevant are pages that suggest the appropriate drivers, but forums with answers from the community may be highly relevant, too.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7097" official="FedWeb13" origin="new">
+    <query>best dum blonds</query>
+    <description>You are looking for some good dumb blonde jokes.</description>
+    <narrative>As a simple pastime and especially to be able to boast with the best jokes to your friends, you are looking for jokes about dumb blondes.&#13;
+Especially result pages with several dumb blond jokes are what you&amp;#039;re looking for, but videos about/with dumb blondes might be highly interesting, too.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7098" official="FedWeb13" origin="new">
+    <query>tour moscow</query>
+    <description>You are looking for a guided tour in Moscow. Reviews and concrete information such as prices are especially welcome.</description>
+    <narrative>You want to prepare your trip to Moscow, and make a budget plan.&#13;
+Touristic sites on Moscow in general are interesting to you, but information on specific tours in Moscow are more valuable, and sites where different tours are compared are the best.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7099" official="FedWeb13" origin="new">
+    <query>lecture manova</query>
+    <description>You want to understand MANOVA and are looking for videolectures that can help you with that.</description>
+    <narrative>You are an engineering student, and studying for a statistics exam. You have some notions about MANOVA but your course book is not sufficient. In order to understand MANOVA better, you are looking for some good lectures.</narrative>
+  </topic>
+  <topic evaluation="None" id="7100" official="FedWeb13" origin="new">
+    <query>korean bbq san francisco review</query>
+    <description>You want to go to a Korean BBQ restaurant in SF, and are looking for reviews and information to make your decision.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7101" official="FedWeb13" origin="new">
+    <query>innodb versus myisam</query>
+    <description>You need to decide between using innodb or MyISAm and are looking for information and if possible, a comparison.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7102" official="FedWeb13" origin="new">
+    <query>vlc mac</query>
+    <description>You want to download the VLC media player for mac.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7103" official="FedWeb13" origin="new">
+    <query>cystic fibrosis treatment</query>
+    <description>You want to know what kind of treatments are available for cystic fibrosis</description>
+    <narrative>You are currently studying for your retake on heart, long, and kidneys. During the part on respiratory fysiology, you come across the desease &amp;#039;cystic fibrosis&amp;#039;, and you want to know which are the possibilities for therapy. Since you are going to be a physician, results with sufficient scientific depth are welcome.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7104" official="FedWeb13" origin="new">
+    <query>How to go from New York to Montreal</query>
+    <description>You want to read about different ways of traveling (train, bus, plane) from NY to Montreal.</description>
+    <narrative>You are planning a trip all the way from New York to Montreal. You want to consider all possible means of transportation (including renting cars). </narrative>
+  </topic>
+  <topic evaluation="None" id="7105" official="FedWeb13" origin="new">
+    <query>dark knight rises dvd</query>
+    <description>You want to buy the dvd The Dark Knight Rises. </description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7106" official="FedWeb13" origin="new">
+    <query>active learning survey</query>
+    <description>You are looking for scientific information &#13;
+(overview papers) about active learning.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="online" id="7107" official="FedWeb14" origin="new">
+    <query>grimm episodes</query>
+    <description>You want to watch the latest episodes of the Grimm television series.</description>
+    <narrative>You have missed the last couple of episodes of the Grimm television series. Sites that directly allow you to watch the episodes are most relevant.&#13;
+Sites that provide you with an overview of the episodes are useful as well, so that you can look up which episodes you have missed.</narrative>
+  </topic>
+  <topic evaluation="None" id="7108" official="FedWeb13" origin="new">
+    <query>renting car seattle</query>
+    <description>You want to rent a car in Seattle.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7109" official="FedWeb13" origin="new">
+    <query>best place to eat pho in new york</query>
+    <description>You are in New York, and are looking for a place to eat pho. </description>
+    <narrative>Especially information or reviews about New York restaurants where you can eat pho are welcome. General info about restaurants in New York are not exactly what you intended, but since you are looking for a place to eat, they can be interesting, too.</narrative>
+  </topic>
+  <topic evaluation="None" id="7110" official="FedWeb13" origin="new">
+    <query>civil engineering jobs pennsylvania</query>
+    <description>You are looking for civil engineering in Pennsylvania</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7111" official="FedWeb14" origin="new">
+    <query>what is the starting salary for a recruiter</query>
+    <description>You want to get an idea of starting salaries for recruiters.</description>
+    <narrative>You recently made a decision to change jobs. After applying for a recruiter job, you are now in the salary negotiation phase. You haven&amp;#039;t worked as a recruiter before, and you want to know what other (starting) recruiters make. Especially sites that provide you with an overview/statistics of recruiter salaries are helpful.&#13;
+However, sites that post individual job descriptions for recruiter jobs with salary indication are helpful as well.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7112" official="FedWeb13" origin="new">
+    <query>facebook icons</query>
+    <description>You want to download the facebook icon</description>
+    <narrative>For a presentation about social media, you need the Facebook icon. Results where you can directly get the Facebook icon are most relevant, but since you are preparing a presentation about social media, homepages and articles about Facebook can be highly relevant, too. &#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7113" official="None" origin="new">
+    <query>vacuum cleaner</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7114" official="None" origin="new">
+    <query>stephen king 11/22/63</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7115" official="FedWeb13" origin="new">
+    <query>pittsburgh steelers news</query>
+    <description>You are looking for the latest news about the pittsburgh steelers (football team)</description>
+    <narrative>The best results you are looking for, are the homepage of the Pittsburgh Steelers, or news pages where the Steelers are being discussed in detail. Especially results from April or May, 2013, are important (i.e., when the data were crawled).&#13;
+[note: this is not a navigational query]&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7116" official="FedWeb13" origin="new">
+    <query>pumpkin pie recipe</query>
+    <description>You need a recipe for pumpkin pie.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7117" official="None" origin="new">
+    <query>michael kors watches</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7118" official="FedWeb13" origin="new">
+    <query>part time jobs texas city</query>
+    <description>You want to know if and what kind of part time jobs there are in Texas city</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7119" official="FedWeb13" origin="new">
+    <query>chocolate photo</query>
+    <description>You need a nice picture of some chocolate.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7120" official="FedWeb13" origin="new">
+    <query>tortellini pasta salad</query>
+    <description>You are looking for a recipe of a salad containing tortellini.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7121" official="FedWeb13" origin="new">
+    <query>who is the man in the m&amp;amp;m commercial</query>
+    <description>You want to find out who is the male actor in the recent m&amp;amp;m commercial.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7122" official="FedWeb13" origin="new">
+    <query>horse dog pics</query>
+    <description>You are looking for pictures of a horse together with a dog.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7123" official="FedWeb14" origin="new">
+    <query>raleigh bike</query>
+    <description>You want to buy a raleigh bike for commuting to the office. </description>
+    <narrative>You just moved closer to work, and you are now planning to go by bike to the office. Most useful are online stores or advertisements for bikes. You also haven&amp;#039;t decided on a specific model yet, therefore sites that give more practical information on raleigh bikes to help you make a choice are useful as well.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7124" official="FedWeb13" origin="new">
+    <query>yves saint laurent boots</query>
+    <description>You want to buy Yves Saint Laurent boots.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7125" official="FedWeb13" origin="new">
+    <query>psychological effects of obesity in children</query>
+    <description>You want to find out what are the possible psychological effects of obesity for children.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7126" official="FedWeb13" origin="new">
+    <query>alicia keys brand new me lyrics</query>
+    <description>You want to find the lyrics of &amp;#039;brand new me&amp;#039; from Alicia Keys.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7127" official="FedWeb13" origin="new">
+    <query>which cities surround long beach ca</query>
+    <description>You want to find out which are the cities that surround Long Beach, California.</description>
+    <narrative>During your holiday in Long Beach California, you want to know which cities, surrounding Long Beach, are worth paying a visit. For now, you just want to know the names of those cities.&#13;
+&#13;
+The results are especially interesting if they come from sites specialized in travelling, or from geographical sites / maps. However, results that indirectly mention these cities might be highly relevant to your specific information need, too.&#13;
+&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7128" official="FedWeb13" origin="new">
+    <query>where to donate clothes in nyc</query>
+    <description>You want to find out where you can donate clothes in New York City.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7129" official="FedWeb13" origin="new">
+    <query>avg home edition</query>
+    <description>You want to obtain the latest AVG home edition.</description>
+    <narrative>You heard AVG would be a greate antivirus tool, and you want to obtain it. The AVG homepage is most relevant, obviously. Some pages only provide the free version, which is still highly relevant, albeit below top. Your main concern is recency: if you find an AVG version that was released before 2013, you consider it non relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7130" official="FedWeb13" origin="new">
+    <query>l1 versus l2 regularization</query>
+    <description>You want to learn what is the difference (+consequences) between L1 and L2 regularization in machine learning.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7131" official="FedWeb13" origin="new">
+    <query>golf games</query>
+    <description>You want to find a good online golf game.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7132" official="FedWeb13" origin="new">
+    <query>massachusetts general hospital jobs</query>
+    <description>You are looking for a job in the Massachusetts general hospital.</description>
+    <narrative>You are about to finish medical school, and would like to know if there are any open positions at the Massachusetts general hospital. You are open to vacencies announced on specialized sites, but you mostly expect to navigate to the jobs section of the hospital&amp;#039;s homepage. </narrative>
+  </topic>
+  <topic evaluation="None" id="7133" official="FedWeb13" origin="new">
+    <query>museum of natural history</query>
+    <description>You need the home page of the Natural History Museum, London. </description>
+    <narrative>(The correct result page for this navigational query starts with http://www.nhm.ac.uk/)</narrative>
+  </topic>
+  <topic evaluation="None" id="7134" official="FedWeb13" origin="new">
+    <query>history of yoga</query>
+    <description>You want to learn more about the history of yoga.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7135" official="FedWeb13" origin="new">
+    <query>Ahmed Dogan assassination</query>
+    <description>You want to know more about the assassination attempt on Ahmed Dogan.</description>
+    <narrative>The video fragment of the assassination attempt is most relevant, but related news reports and reactions are also of interest.</narrative>
+  </topic>
+  <topic evaluation="None" id="7136" official="FedWeb13" origin="new">
+    <query>Soccer trick</query>
+    <description>You are trying to learn some nice soccer tricks and are looking for some ideas and examples.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7137" official="FedWeb14" origin="new">
+    <query>Cat movies</query>
+    <description>You are looking for a list of cat movies.</description>
+    <narrative>You are a kitten fan and in your casual time, you want to watch a bunch of movies that are related to cats. Therefore, you try to look for a list of cat movies. Some movie list or review could be relevant. Some direct video clips of the movie could be relevant too.</narrative>
+  </topic>
+  <topic evaluation="None" id="7138" official="FedWeb13" origin="new">
+    <query>lance armstrong oprah</query>
+    <description>You are looking for (information about) the interview of Lance Armstrong by Oprah.</description>
+    <narrative>(when the data was crawled, this was recent news)</narrative>
+  </topic>
+  <topic evaluation="None" id="7139" official="None" origin="new">
+    <query>ipad cover</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7140" official="None" origin="new">
+    <query>headphones</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7141" official="FedWeb13" origin="new">
+    <query>Cambridge must do</query>
+    <description>You want to know what are the main touristic places of interest in Cambridge, UK.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7142" official="FedWeb13" origin="new">
+    <query>Amsterdam museums</query>
+    <description>You want to find out which are the main museums in Amsterdam.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7143" official="FedWeb13" origin="new">
+    <query>from dusseldorf to washington dc</query>
+    <description>You want to find (and compare) flights from Dusseldorf to Washington DC. </description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7144" official="FedWeb13" origin="new">
+    <query>can headphones cause hearing loss</query>
+    <description>You want to find out if, and under which conditions, headphones can cause permanent hearing loss.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7145" official="FedWeb13" origin="new">
+    <query>why do cats purr</query>
+    <description>You want to know why cats purr and what it means.</description>
+    <narrative>You have cats and want to know what they want to communicate while purring. Any information on the meaning of purring is interesting, including videos. However, biological information on how the purring is done, is not relevant.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7146" official="FedWeb14" origin="new">
+    <query>why do leaves fall</query>
+    <description>You want to find out what causes trees to drop their leaves.</description>
+    <narrative>Your 8 year old daughter asks you why leaves fall off trees and to your own embarrassment you don&amp;#039;t have a proper answer. You want to quickly find the answer to pass on to her but more extensive information is also very useful to fulfill your own curiosity.</narrative>
+  </topic>
+  <topic evaluation="None" id="7147" official="FedWeb13" origin="new">
+    <query>breast cancer review</query>
+    <description>You are looking for a recent scientific review paper on breast cancer (including treatments).</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7148" official="None" origin="new">
+    <query>harry potter </query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7149" official="None" origin="new">
+    <query>stephen king</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7150" official="FedWeb13" origin="new">
+    <query>senior java developer</query>
+    <description>You are looking for a major software company in the US that needs a senior java developer.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7151" official="None" origin="new">
+    <query>business consultant</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7152" official="FedWeb13" origin="new">
+    <query>haskell hash string</query>
+    <description>You want to find out how to create a hashed value like MD5 from a string, in haskell.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7153" official="FedWeb13" origin="new">
+    <query>pig latin help</query>
+    <description>You need the documentation for Hadoop Pig Latin.&#13;
+</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7154" official="FedWeb13" origin="new">
+    <query>stones satisfaction</query>
+    <description>You are looking for Satisfaction from the Rolling Stones.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7155" official="FedWeb14" origin="new">
+    <query>ted talk mooc</query>
+    <description>You would like to find TED talks discussing Massive Open Online Courses</description>
+    <narrative>You are interested in MOOCs (Massive Open Online Courses) and how they change education. You are looking for TED talk videos discussing MOOCs </narrative>
+  </topic>
+  <topic evaluation="None" id="7156" official="None" origin="trec09+web">
+    <query>djs</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7157" official="None" origin="trec09+millionquery">
+    <query> diamond pet foods recall</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7158" official="None" origin="trec09+millionquery">
+    <query>belle isle detroit</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7159" official="None" origin="trec09+millionquery">
+    <query>canton ct</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7160" official="None" origin="trec09+web">
+    <query>toilet</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7161" official="FedWeb14" origin="trec09+millionquery">
+    <query>dodge caliber</query>
+    <description>You want to get information about the Dodge Caliber.&#13;
+</description>
+    <narrative>Your 20-year-old Volvo needs to be replaced and you heard a lot of good things about the Dodge Caliber. Listings of second-hand Calibers are somewhat relevant but first you want to find out more general information about the car so reviews and general articles are most relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7162" official="None" origin="trec09+millionquery">
+    <query>randy miller</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7163" official="None" origin="trec09+millionquery">
+    <query>menstrual cycle</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7164" official="None" origin="trec09+millionquery">
+    <query>888 numbers</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7165" official="FedWeb14" origin="trec09+millionquery">
+    <query>vice president residence</query>
+    <description>You&amp;#039;re looking for a description of the American Vice President&amp;#039;s residence.</description>
+    <narrative>Everyone knows what the White House looks like but you wonder what the Number One Observatory Circle looks like, the official residence of the American Vice President. Pictures are great, descriptions are still useful, a combination of both are obviously ideal.</narrative>
+  </topic>
+  <topic evaluation="online" id="7166" official="FedWeb14" origin="trec09+millionquery">
+    <query>pita recipe</query>
+    <description>You want to find pita recipes</description>
+    <narrative>Friends are coming over this evening. You&amp;#039;re in the mood for pitas and you are looking for new recipes to try out. Videos or web pages with (free) recipes are relevant. Pictures of dishes with pitas are not relevant.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7167" official="FedWeb14" origin="trec09+millionquery">
+    <query>aluminium extrusion</query>
+    <description>You are looking for information on the process of Aluminum Extrusion.</description>
+    <narrative>You are a mechanical engineer, but metallurgy was never your main topic of interest. Now someone asked you about aluminium extrusion, on which you could not directly reply. You want to be prepared for the next time that person brings up the topic. You&amp;#039;re equally interested in the mechanical principles behind the process, the industrial machinery, and the applications. The content you&amp;#039;re interested in may be scientific.</narrative>
+  </topic>
+  <topic evaluation="None" id="7168" official="FedWeb14" origin="trec09+millionquery">
+    <query>fabric glue</query>
+    <description>You are looking for information on fabric glue.&#13;
+</description>
+    <narrative>You and your friends want to participate in the Belgian Carnival in Aalst for the first time. To get your costumes done you are looking for information on fabric glue including product comparisons and general tips.</narrative>
+  </topic>
+  <topic evaluation="None" id="7169" official="None" origin="trec09+web">
+    <query>arizona game and fish</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7170" official="None" origin="trec09+web">
+    <query>cheap internet</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7171" official="None" origin="trec09+web">
+    <query>hoboken</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7172" official="None" origin="trec09+millionquery">
+    <query>iwo</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7173" official="FedWeb14" origin="trec09+millionquery">
+    <query> severed spinal cord</query>
+    <description>You want to find out more about severed spinal cords.</description>
+    <narrative>Your brother severed his spinal cord in a car crash and is going to be staying at your house during his rehabilitation. You want to really dig in and find everything there is to know about his injury in order to be able to help him get through this. You have no medical training so academic papers that are too technical aren&amp;#039;t the most important results but are still useful.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7174" official="FedWeb14" origin="trec09+millionquery">
+    <query>seal team 6</query>
+    <description>You need to find accurate information on Seal Team Six, now known as DEVGRU or United States Naval Special Warfare Development Group.</description>
+    <narrative>You are applying for a job as a computer network expert for a new European Union Anti-Terrorism Agency. As it will cooperate with its international counterparts you need a good basic knowledge of all counter-terrorism units, including Seal Team Six. Historical information such as the capture of Bin Laden is useful, but even better are articles fully describing the organisation in its current condition.</narrative>
+  </topic>
+  <topic evaluation="None" id="7175" official="None" origin="trec09+millionquery">
+    <query>paramount pictures</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7176" official="FedWeb14" origin="trec09+millionquery">
+    <query> weather in nyc</query>
+    <description>You want to know the weather forecast of NYC</description>
+    <narrative>You&amp;#039;re about to go on a trip to NYC. You want to know what kind of clothes you should pack. Most relevant are websites that have weather forecasts for NYC. Websites that provide weather statistics or general descriptions of the weather in New York are only slightly relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7177" official="None" origin="trec09+millionquery">
+    <query>heskin hall</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7178" official="None" origin="trec09+millionquery">
+    <query>commonwealth state</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7179" official="None" origin="trec09+web">
+    <query>obama family tree</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="online" id="7180" official="FedWeb14" origin="trec09+millionquery">
+    <query>blink reflex</query>
+    <description>You are looking for information on the naturally occurring blink reflex.</description>
+    <narrative>You just switched from wearing glasses to wearing lenses and are suffering from eye ache caused by dry eyes. As blinking helps to prevent from dry eyes, you want to know more about the blink reflex and what could possibly be wrong with yours.</narrative>
+  </topic>
+  <topic evaluation="None" id="7181" official="None" origin="new">
+    <query>jack nicholson movies</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7182" official="None" origin="trec09+web">
+    <query>the secret garden</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7183" official="None" origin="trec09+web">
+    <query>elliptical trainer</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7184" official="None" origin="trec09+millionquery">
+    <query>guillermo venegas lloveras</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7185" official="FedWeb14" origin="trec09+millionquery">
+    <query>constitution of italy</query>
+    <description>You want to find detailed information on the Constitution of Italy.&#13;
+</description>
+    <narrative>You are a Belgian constitutional lawyer that just fell in love with a gorgeous Italian woman. You decide to move to Milan and in order to be eligible for jobs in law, you start a special course on Italian Constitution Law. To prepare for this class you want to find some general information about the Italian Constitution. More in-depth academic papers are even better as they may serve you well during the course.</narrative>
+  </topic>
+  <topic evaluation="None" id="7186" official="None" origin="trec09+millionquery">
+    <query>rotor disease</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7187" official="None" origin="trec09+millionquery">
+    <query>fraxel laser</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7188" official="None" origin="trec09+millionquery">
+    <query>steny hoyer congressman</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7189" official="FedWeb13" origin="new">
+    <query>judiciary act 1789</query>
+    <description>You are looking for information on the historical Judiciary Act from 1789.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7190" official="None" origin="trec09+web">
+    <query>used car parts</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7191" official="None" origin="trec09+web">
+    <query>ps 2 games</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7192" official="None" origin="trec09+web">
+    <query>the current</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7193" official="None" origin="trec09+web">
+    <query>michworks</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7194" official="FedWeb14" origin="trec09+millionquery">
+    <query>hobcaw barony</query>
+    <description>What is hobcaw barony?&#13;
+</description>
+    <narrative>Your best friend is on a big trip to the US East Coast and talks to you on Facebook saying how amazing it was to visit Hobcaw Barony. You have never heard of Hobcaw Barony before and want to find general information, whether it&amp;#039;s through pictures, articles or videos.</narrative>
+  </topic>
+  <topic evaluation="None" id="7195" official="None" origin="trec09+millionquery">
+    <query>737 aircraft</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7196" official="None" origin="trec09+millionquery">
+    <query>cuttle fish bone</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7197" official="FedWeb14" origin="trec09+millionquery">
+    <query>contraceptive diaphragm</query>
+    <description>You are looking for information on contraceptive diaphragm.&#13;
+</description>
+    <narrative>You are deciding between different methods of birth control. You are looking for more information on contraceptive diaphgrams, especially accessible information that may help you to decide. Highly scientific results are not useful, as you won&amp;#039;t be able to understand them.</narrative>
+  </topic>
+  <topic evaluation="None" id="7198" official="None" origin="trec09+web">
+    <query>video game artist</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7199" official="None" origin="trec09+millionquery">
+    <query>commercial liability insurance</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7200" official="FedWeb14" origin="trec09+millionquery">
+    <query>uss stennis</query>
+    <description>You would like to find out more about the USS Stennis.</description>
+    <narrative>For your birthday your father bought you a model ship of the USS Stennis. While building it you get fascinated by it and you want to learn the history behind the supercarrier. Pictures and short references to the supercarrier are less relevant than videos and extensive descriptions of its former and current missions.</narrative>
+  </topic>
+  <topic evaluation="None" id="7201" official="None" origin="trec09+millionquery">
+    <query>vice president richard nixon</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7202" official="None" origin="trec09+millionquery">
+    <query>elephant list</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7203" official="None" origin="trec09+web">
+    <query>lower heart rate</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7204" official="None" origin="trec09+millionquery">
+    <query>white star auction</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7205" official="FedWeb14" origin="trec09+millionquery">
+    <query>turkey leftover recipes</query>
+    <description>You have turkey leftovers, and want to use it for a dish today. You are looking for suitable recipes.</description>
+    <narrative>You have some turkey left. You want to try out a new recipe today and have decided to make a dish with turkey. You are only interested in free recipes, and not in recipes for which you need a whole turkey.</narrative>
+  </topic>
+  <topic evaluation="None" id="7206" official="None" origin="trec09+web">
+    <query>appraisals</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7207" official="FedWeb14" origin="trec09+millionquery">
+    <query>earthquake</query>
+    <description>You need to find information about earthquakes&#13;
+</description>
+    <narrative>You are told to prepare a geology class on earthquakes for a bunch of primary school students. You are looking online to find information for the presentation. Some scientific material could be useful. Videos, images and recent earthquakes could be useful as well to explain the impact.</narrative>
+  </topic>
+  <topic evaluation="None" id="7208" official="None" origin="trec09+web">
+    <query>bravo network</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7209" official="FedWeb13" origin="trec09+millionquery">
+    <query>crab dip appetizer</query>
+    <description>You want to find a recipe for a crab dip appetizer.</description>
+    <narrative>Some friends are coming over for lunch. You have some crab left, and want to use it for making a dip sauce as an appetizer. You are only interested in free recipes, and not in recipes for main dishes with crab.</narrative>
+  </topic>
+  <topic evaluation="None" id="7210" official="None" origin="trec09+millionquery">
+    <query>legal advise</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7211" official="FedWeb14" origin="trec09+millionquery">
+    <query>punctuation guide</query>
+    <description>You are looking for a punctuation guide&#13;
+</description>
+    <narrative>You are writing your first paper. You have doubts about whether you are using some punctuation marks correctly. You are looking for punctuation guides: accessible overviews on how to use punctuation marks. Pages that only explain a specific punctuation mark are slightly relevant.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7212" official="FedWeb14" origin="trec09+millionquery">
+    <query>mud pumps</query>
+    <description>You are looking for information about mud pumps.</description>
+    <narrative>Your family bought a large piece of land out of reach of regular water supply. Thanks to your degree in civil engineering they expect you to make a water well. You have limited experience with mud pumps so you want to do extensive research on them before renting one to make sure you know which one to get and how to use it properly.</narrative>
+  </topic>
+  <topic evaluation="None" id="7213" official="None" origin="trec09+millionquery">
+    <query>motorized bicycles</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7214" official="None" origin="trec09+web">
+    <query>starbucks</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7215" official="FedWeb14" origin="trec09+millionquery">
+    <query>squamous cell carcinoma</query>
+    <description>You are looking for information about Squamous Cell Carcinoma (skin cancer).</description>
+    <narrative>You have been diagnosed with squamous cell carcinoma. You are looking for information, including treatments, prognosis, etc. Given your medical background (you are a doctor), you want to  search the existing literature in depth, and are most interested in scientific results.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7216" official="FedWeb14" origin="trec09+millionquery">
+    <query>salmonella</query>
+    <description>You are looking for information on Salmonella.&#13;
+</description>
+    <narrative>After eating in an Indian restaurant you have  diarrhea for two days straight. You&amp;#039;re leaving on an important business trip tomorrow and probably don&amp;#039;t have enough time to see a doctor so you want to  find out more about Salmonella poisoning to see if you can rule it out and just let your weak stomach repair from the curry. Academic papers and advanced technical descriptions aren&amp;#039;t as useful as simple diagnostic information from reliable sources.</narrative>
+  </topic>
+  <topic evaluation="None" id="7217" official="FedWeb14" origin="trec09+millionquery">
+    <query>who was lincolns vice president</query>
+    <description>You want to know who Abraham Lincoln&amp;#039;s Vice Presidents were.&#13;
+</description>
+    <narrative>You are going to a quiz about American History tonight so you&amp;#039;re doing some last minute trivia searching about the most important US presidents. More elaborate information is still useful but a quick mention of the names of Lincoln&amp;#039;s vice presidents is what you really need.</narrative>
+  </topic>
+  <topic evaluation="None" id="7218" official="FedWeb13" origin="new">
+    <query>edward kennedy</query>
+    <description>You want to learn more on Edward (&amp;quot;Tex&amp;quot;) Kennedy.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7219" official="FedWeb13" origin="new">
+    <query>&amp;quot;honda insight&amp;quot;</query>
+    <description>You want to know more about the latest (hybrid) Honda Insight.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7220" official="None" origin="trec09+millionquery">
+    <query>tax questions</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7221" official="FedWeb13" origin="new">
+    <query>what is mittelschmerz</query>
+    <description>You want to know what the term &amp;#039;mittelschmerz&amp;#039; means. </description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7222" official="FedWeb14" origin="new">
+    <query>route 666</query>
+    <description>You would like to find more information about the route 666 movie</description>
+    <narrative>Your friends are coming over this evening. You are planning to watch a horror movie, and you are considering the route 666 movie. You are looking for more information (summaries) and reviews, to help you decide whether this is a good choice. Results about the game are not relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7223" official="None" origin="trec09+millionquery">
+    <query>vaginal gas</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7224" official="None" origin="trec09+millionquery">
+    <query>cyberonics</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7225" official="None" origin="trec09+millionquery">
+    <query>hansen quads</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7226" official="None" origin="trec09+millionquery">
+    <query>virtual earth</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7227" official="None" origin="trec09+millionquery">
+    <query>rio grande</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7228" official="None" origin="trec09+millionquery">
+    <query>davis county schools utah</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7229" official="None" origin="trec09+millionquery">
+    <query>houston community college</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7230" official="FedWeb14" origin="trec09+millionquery">
+    <query>council bluffs</query>
+    <description>You want to know more about the city Council Bluffs.&#13;
+</description>
+    <narrative>Your oil company wants you to lead a team for a year and a half at a new oil rig near Council Bluffs, Iowa. Before making this decision you want to look up some general information about Council Bluffs. News articles are less relevant than general geographic, demographic and cultural information about the city.</narrative>
+  </topic>
+  <topic evaluation="None" id="7231" official="None" origin="trec09+web">
+    <query>dog heat</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7232" official="None" origin="trec09+millionquery">
+    <query>tewksbury mass</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7233" official="None" origin="trec09+millionquery">
+    <query>jimmy earl carter</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7234" official="FedWeb14" origin="trec09+millionquery">
+    <query>347 ford engines</query>
+    <description>You are looking for technical and practical information on the Ford 347 engine.</description>
+    <narrative>Your brother is an amateur race driver and you want to surprise him for his birthday by buying him a ford 347 engine (his dream engine). Obviously you want to be well-informed in advance.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7235" official="FedWeb14" origin="trec09+millionquery">
+    <query>silicone roof coatings</query>
+    <description>You are looking for information about silicone roof coatings.&#13;
+</description>
+    <narrative>Your roof has been leaking for years, and you are looking for a permanent solution to the problem. Someone told you the new silicone coatings are affordable and work well, so you want to know all there is about it: what it is, how to install, its properties (including reviews of actual products), where it is sold... Information on other types of roofing are somewhat relevant, as you haven&amp;#039;t decided yet what you&amp;#039;re going to use.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7236" official="FedWeb14" origin="trec09+millionquery">
+    <query>lomustine</query>
+    <description>You want to know what lomustine is and what it does.&#13;
+</description>
+    <narrative>You have been diagnosed with a brain tumor, and your doctor has prescribed lomustine as medication for you. You want to know more about the use and purpose of lomustine. Highly scientific results are not as relevant as more generic (non-specialist) results.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7237" official="None" origin="trec09+millionquery">
+    <query>external radiation therapy</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7238" official="None" origin="trec09+millionquery">
+    <query>shave gel</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7239" official="FedWeb14" origin="trec09+millionquery">
+    <query>roundabout safety</query>
+    <description>You are looking for information on roundabout safety.</description>
+    <narrative>You are a first year student at a university. For a project, you are looking for information on whether roundabouts improve safety.</narrative>
+  </topic>
+  <topic evaluation="None" id="7240" official="None" origin="trec09+millionquery">
+    <query>saint maarten weather</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7241" official="FedWeb14" origin="trec09+millionquery">
+    <query>flight simulators</query>
+    <description>You are looking for the current status of flight simulators?&#13;
+</description>
+    <narrative>To fulfill your lifelong dream of becoming a pilot you finally decide to look into getting an education. You are wondering if you can get some practice in flight simulators before enlisting in an expensive program. Results about video games are less useful but not completely irrelevant since elaborate flight simulator games can still offer you some insights.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7242" official="FedWeb14" origin="trec09+millionquery">
+    <query>hague convention</query>
+    <description>You are looking for in-depth information on the Hague Convention.&#13;
+</description>
+    <narrative>You are a communications advisor for Amnesty International. Amnesty asks you to write a piece for their website on the importance of the conventions of the Hague and Geneva in current international law. You already know a lot about the Geneva Convention so only results regarding the Convention of the Hague are important to you, especially those that offer a broad view on the current importance of it.</narrative>
+  </topic>
+  <topic evaluation="None" id="7243" official="None" origin="trec09+millionquery">
+    <query>john d macdonald</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7244" official="None" origin="trec09+web">
+    <query>dogs for adoption</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7245" official="None" origin="trec09+web">
+    <query>espn sports</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7246" official="None" origin="trec09+millionquery">
+    <query>oaklandtribune</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7247" official="None" origin="trec09+millionquery">
+    <query>suzy leonard</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7248" official="None" origin="trec09+millionquery">
+    <query>all earthquake list</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7249" official="FedWeb14" origin="trec09+millionquery">
+    <query>largest alligator on record</query>
+    <description>You want to find out what is the largest alligator on record.</description>
+    <narrative>You are with friends and at some point you start talking about alligators. You want to quickly find out what is the largest alligator on record. Results that give you a quick answer are especially useful.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7250" official="FedWeb14" origin="trec09+millionquery">
+    <query>collagen vascular disease</query>
+    <description>You want to know more about collagen vascular disease.</description>
+    <narrative>You are a medicin student. For your current project, you are searching for information on collagen vascular disease. Information that is written for laymen as well as information requiring a medical background is useful. You prefer free resources, but interesting books that you can buy are also slightly relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7251" official="None" origin="trec09+millionquery">
+    <query>kohler</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7252" official="FedWeb14" origin="trec09+millionquery">
+    <query>welch corgi</query>
+    <description>You think welsh corgis are adorable. You are bored, and to fill your time you are looking for more information and nice pictures/videos of welsh corgis.</description>
+    <narrative>You are bored and decide to fill your time by searching for your favorite dog breed, the welsh corgi.&#13;
+&#13;
+You are interested in accessible information about the welsh corgi. You are not interested in scientific articles or news. You also like to see videos and pictures of welsh corgis. </narrative>
+  </topic>
+  <topic evaluation="None" id="7253" official="None" origin="trec09+millionquery">
+    <query>map</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7254" official="None" origin="trec09+millionquery">
+    <query>barack obama senator for illinois</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7255" official="None" origin="trec09+web">
+    <query>flame designs</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7256" official="None" origin="trec09+millionquery">
+    <query>get adobe flash player</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7257" official="None" origin="trec09+millionquery">
+    <query>white plains new york</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7258" official="FedWeb13" origin="trec09+millionquery">
+    <query>swahili dishes</query>
+    <description>You are looking for recipes or videos on how to make Swahili dishes.</description>
+    <narrative>You have visitors, and you promised them a typical Swahili dish. For now, you&amp;#039;re not looking for recipes from other cultures, and you have no time to read into other aspects of Swahili culture.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7259" official="FedWeb13" origin="trec09+millionquery">
+    <query>radish root</query>
+    <description>You want to find recipes that contain radish root.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7260" official="FedWeb14" origin="new">
+    <query>iowa girls high school basketball</query>
+    <description>You&amp;#039;re looking for information on Iowa Girls High School Basketball.&#13;
+</description>
+    <narrative>Your daughter&amp;#039;s a true basketball prodigy but unfortunately you are always busy working in a different state. To keep yourself up to date you want to find news and results from the girls games in Iowa High School Basketball.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7261" official="FedWeb14" origin="trec09+millionquery">
+    <query>elvish language</query>
+    <description>You are looking for information about the Elvish language.&#13;
+</description>
+    <narrative>You are a video game designer working on a new fantasy game. Elves will be one of the playable races and you want the lore to be written in both English as Elvish, so you&amp;#039;re looking for as much information about Elvish grammar and vocabulary as you can. Linguistic information is more important than historical.</narrative>
+  </topic>
+  <topic evaluation="None" id="7262" official="None" origin="trec09+millionquery">
+    <query>ct fire academy</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7263" official="FedWeb14" origin="trec09+millionquery">
+    <query>hospital acquired pneumonia</query>
+    <description>Information about hospital acquired pneumonia.&#13;
+</description>
+    <narrative>A family member of you acquired pneumonia when in the hospital. You&amp;#039;re looking for resources that provide more information (such as symptoms and treatment). Scientific articles are not useful (you don&amp;#039;t understand them). Books you can buy are slightly relevant if they are accessible reads.</narrative>
+  </topic>
+  <topic evaluation="None" id="7264" official="None" origin="trec09+millionquery">
+    <query>warrant officer</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7265" official="FedWeb14" origin="trec09+millionquery">
+    <query>grassland plants</query>
+    <description>You are looking for pictures/photographs of Grassland Plants.&#13;
+</description>
+    <narrative>You are organizing a big quiz and for one of the rounds you need high-quality pictures/photographs of grassland plants that the contestants have to identify. Texts and books are useless unless accompanied by clear pictures. </narrative>
+  </topic>
+  <topic evaluation="None" id="7266" official="None" origin="trec09+millionquery">
+    <query>doughton park</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7267" official="None" origin="trec09+millionquery">
+    <query>wolves</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7268" official="None" origin="trec09+millionquery">
+    <query>irving berlin</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7269" official="None" origin="trec09+millionquery">
+    <query>berkley insurance</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7270" official="None" origin="trec09+web">
+    <query>alexian brothers hospital</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7271" official="None" origin="trec09+millionquery">
+    <query>magnetic fields</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7272" official="None" origin="trec09+millionquery">
+    <query>circumferance</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7273" official="None" origin="trec09+millionquery">
+    <query>bbc science news</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7274" official="FedWeb14" origin="trec09+millionquery">
+    <query>detroit riot</query>
+    <description>You want to find out what happened during the Detroit riots&#13;
+</description>
+    <narrative>You are looking for information about what happened during the Detroit riots. Personal stories or articles giving historical information are useful. Fiction (e.g. novels) are not useful.</narrative>
+  </topic>
+  <topic evaluation="None" id="7275" official="None" origin="trec09+millionquery">
+    <query>east ridge high school</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7276" official="None" origin="trec09+millionquery">
+    <query>hardees</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7277" official="None" origin="trec09+millionquery">
+    <query>nicknames</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7278" official="None" origin="trec09+millionquery">
+    <query>dictionary of american naval fighting ships</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7279" official="None" origin="trec09+millionquery">
+    <query>when did the civil war end</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7280" official="None" origin="trec09+millionquery">
+    <query>golden gate bridge</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7281" official="None" origin="trec09+millionquery">
+    <query>zane grey</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7282" official="None" origin="trec09+web">
+    <query>cell phones</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7283" official="None" origin="trec09+millionquery">
+    <query>3rd grade books</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7284" official="None" origin="trec09+millionquery">
+    <query>frying pan tower</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7285" official="None" origin="trec09+web">
+    <query>poker tournaments</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7286" official="None" origin="trec09+millionquery">
+    <query>red in stool</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7287" official="None" origin="trec09+millionquery">
+    <query>saugerties central school district</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7288" official="None" origin="trec09+millionquery">
+    <query>montgomery county court</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7289" official="None" origin="trec09+web">
+    <query>indexed annuity</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7290" official="None" origin="trec09+millionquery">
+    <query>calvert cliffs maryland</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7291" official="None" origin="trec09+millionquery">
+    <query>eagle airport colorado</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7292" official="None" origin="trec09+millionquery">
+    <query>knotts berry farm</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7293" official="FedWeb14" origin="trec09+millionquery">
+    <query>basil recipe</query>
+    <description>You want to find recipes using basil</description>
+    <narrative>You have some basil left from a previous meal you cooked. You are looking for inspiration on how you can use basil in your next meal.&#13;
+Instructions videos, webpages with free recipes, or pages with tips on how to use basil are helpful.</narrative>
+  </topic>
+  <topic evaluation="None" id="7294" official="FedWeb14" origin="trec09+millionquery">
+    <query>assumption of mary</query>
+    <description>You would like to know all about the Assumption of Mary.&#13;
+</description>
+    <narrative>Your daughter is in summer school and has to do a project on the upcoming feast day the Assumption of Mary. You want to help her out by finding everything there is to know about it, but videos and pictures aren&amp;#039;t as relevant as clear historical and religious texts.</narrative>
+  </topic>
+  <topic evaluation="None" id="7295" official="None" origin="trec09+millionquery">
+    <query>newspapers</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7296" official="None" origin="trec09+millionquery">
+    <query>burger king</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7297" official="None" origin="trec09+millionquery">
+    <query>ventral cavity</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7298" official="None" origin="trec09+millionquery">
+    <query>pineal calcification</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7299" official="FedWeb14" origin="trec09+millionquery">
+    <query>row row row your boat lyrics</query>
+    <description>You are looking for the lyrics to the song Row Row Row Your Boat.</description>
+    <narrative>Your brother&amp;#039;s children are visiting and you are looking for the lyrics to the song  Row Row Row Your Boat, so that you can sing the song together.&#13;
+Singalong videos are useful as well.</narrative>
+  </topic>
+  <topic evaluation="None" id="7300" official="None" origin="trec09+web">
+    <query>wedding budget calculator</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7301" official="None" origin="trec09+millionquery">
+    <query>ribble cycles</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7302" official="None" origin="trec09+millionquery">
+    <query>algerian airlines</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7303" official="FedWeb14" origin="trec09+millionquery">
+    <query>what causes itchy feet</query>
+    <description>You are looking for information on itchy feet.&#13;
+</description>
+    <narrative>Your feet are terribly itchy. Before having to go to the doctor&amp;#039;s, you want to figure out what may be causing it and how you could possibly treat this affliction yourself.</narrative>
+  </topic>
+  <topic evaluation="None" id="7304" official="FedWeb14" origin="trec09+millionquery">
+    <query>carmen electra video</query>
+    <description>You&amp;#039;re looking for information on the carmen electra video.</description>
+    <narrative>In order to save the world you must find and watch the home video that got leaked of Carmen Electra. Other videos or information about her can be useful as it may provide links to the video in question or information about it, but the actual video is your #1 goal.</narrative>
+  </topic>
+  <topic evaluation="None" id="7305" official="None" origin="trec09+millionquery">
+    <query>center solar system</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7306" official="None" origin="trec09+millionquery">
+    <query>history crossword</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7307" official="FedWeb14" origin="trec09+millionquery">
+    <query>causes of the cold war</query>
+    <description>You are looking for the causes of the Cold War.</description>
+    <narrative>You are a newspaper journalist specialized in European politics. Due to the recent tensions between Russia and the EU regarding the Ukraine, your editor asks you to write a piece with general information about the Cold War. As you&amp;#039;re not very familiar with American politics you want to find out more about the causes of the Cold War and the political climate in that period (just after World War 2).</narrative>
+  </topic>
+  <topic evaluation="None" id="7308" official="None" origin="trec09+web">
+    <query>gmat prep classes</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7309" official="None" origin="trec09+web">
+    <query>dinosaurs</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7310" official="None" origin="trec09+millionquery">
+    <query>green darner dragonfly</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7311" official="None" origin="trec09+millionquery">
+    <query>hamilton county indiana</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7312" official="None" origin="trec09+millionquery">
+    <query>early pregnancy tests</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7313" official="None" origin="trec09+millionquery">
+    <query>fighting joe wheeler</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7314" official="None" origin="trec09+millionquery">
+    <query>haulover beach fl</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7315" official="None" origin="trec09+web">
+    <query>inuyasha</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7316" official="None" origin="trec09+millionquery">
+    <query>berkshire hathaway</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7317" official="None" origin="trec09+millionquery">
+    <query>dumpster rental</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7318" official="None" origin="trec09+millionquery">
+    <query>tonga</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7319" official="None" origin="trec09+millionquery">
+    <query>ritz camera</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7320" official="FedWeb14" origin="trec09+millionquery">
+    <query>cayenne pepper plants</query>
+    <description>You are looking for information on growing cayenne pepper plants.&#13;
+</description>
+    <narrative>You want to grow your own cayenne pepper plants, starting from a cayenne pepper, and you&amp;#039;re looking for advice (written guidelines / videos / ...) on how to do so.</narrative>
+  </topic>
+  <topic evaluation="None" id="7321" official="None" origin="trec09+millionquery">
+    <query>huntsville alabama</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7322" official="None" origin="trec09+millionquery">
+    <query>my own background check</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7323" official="None" origin="trec09+millionquery">
+    <query>nbc richard engel</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7324" official="None" origin="trec09+millionquery">
+    <query>skagit valley herald</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7325" official="None" origin="trec09+web">
+    <query>air travel information</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7326" official="FedWeb14" origin="trec09+millionquery">
+    <query>volcanoe eruption</query>
+    <description>You want to know more about volcano eruptions.&#13;
+</description>
+    <narrative>You are looking for general, accessible information on volcano eruptions. What are they? How are they caused?  Specific news items discussing, e.g., recent eruptions are not relevant to you.</narrative>
+  </topic>
+  <topic evaluation="None" id="7327" official="None" origin="trec09+millionquery">
+    <query>mpg kia sedona</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7328" official="FedWeb14" origin="trec09+millionquery">
+    <query>reduce acne redness</query>
+    <description>You want to know how acne redness in the face can be treated.</description>
+    <narrative>You urgently need to get rid of the acne redness in your face, as tomorrow you go to a party where you want to look well. Scientific background information on acne is not what you are looking for; rather the instant tricks and experiences from other people, and what works or what doesn&amp;#039;t.</narrative>
+  </topic>
+  <topic evaluation="None" id="7329" official="None" origin="trec09+web">
+    <query>map</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7330" official="None" origin="trec09+web">
+    <query>rick warren</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7331" official="None" origin="trec09+web">
+    <query>french lick resort and casino</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7332" official="None" origin="trec09+web">
+    <query>getting organized</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7333" official="None" origin="trec09+web">
+    <query>mitchell college</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7334" official="None" origin="trec09+web">
+    <query>kcs</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7335" official="None" origin="trec09+web">
+    <query>defender</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7336" official="None" origin="trec09+web">
+    <query>volvo</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7337" official="None" origin="trec09+web">
+    <query>yahoo</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7338" official="None" origin="trec09+web">
+    <query>diversity</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7339" official="None" origin="new">
+    <query>euclid</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7340" official="None" origin="trec09+web">
+    <query>diabetes education</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7341" official="None" origin="trec09+web">
+    <query>atari</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7342" official="None" origin="trec09+web">
+    <query>website design hosting</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7343" official="None" origin="trec09+web">
+    <query>gps</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7344" official="FedWeb13" origin="new">
+    <query>pampered chef</query>
+    <description>You want to find the Pampered Chef homepage.</description>
+    <narrative>The navigational result starts with &amp;#039;http://www.pamperedchef.com/&amp;#039;. In fact, you are looking for information about the Pampered Chef: recipes, products,... Also, similar content on different sites is not entirely non-relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7345" official="None" origin="trec09+web">
+    <query>disneyland hotel</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7346" official="None" origin="trec09+web">
+    <query>orange county convention center</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7347" official="None" origin="trec09+web">
+    <query>the music man</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7348" official="FedWeb13" origin="new">
+    <query>map of the united states</query>
+    <description>You want to find US road maps.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7349" official="None" origin="trec09+web">
+    <query>solar panels</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7350" official="None" origin="trec09+web">
+    <query>wilson antenna</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7351" official="None" origin="trec10+web">
+    <query>horse hooves</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7352" official="None" origin="trec10+web">
+    <query>avp</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7353" official="None" origin="trec10+web">
+    <query>discovery channel store</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7354" official="None" origin="trec10+web">
+    <query>president of the united states</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7355" official="None" origin="trec10+web">
+    <query>iron</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7356" official="None" origin="trec10+web">
+    <query>uss yorktown charleston sc</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7357" official="None" origin="trec10+web">
+    <query>ct jobs</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7358" official="None" origin="trec10+web">
+    <query>penguins</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7359" official="None" origin="trec10+web">
+    <query>how to build a fence</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7360" official="None" origin="trec10+web">
+    <query>bellevue</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7361" official="None" origin="trec10+web">
+    <query>worm</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7362" official="None" origin="trec10+web">
+    <query>texas border patrol</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7363" official="None" origin="trec10+web">
+    <query>flushing</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7364" official="None" origin="trec10+web">
+    <query>moths</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7365" official="None" origin="trec10+web">
+    <query>korean language</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7366" official="None" origin="trec10+web">
+    <query>income tax return online</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7367" official="None" origin="trec10+web">
+    <query>vldl levels</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7368" official="None" origin="trec10+web">
+    <query>pvc</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7369" official="None" origin="trec10+web">
+    <query>sewing instructions</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7370" official="None" origin="trec10+web">
+    <query>to be or not to be that is the question</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7371" official="None" origin="trec10+web">
+    <query>living in india</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7372" official="None" origin="trec10+web">
+    <query>the sun</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7373" official="None" origin="trec10+web">
+    <query>neil young</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7374" official="None" origin="trec10+web">
+    <query>kiwi</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7375" official="None" origin="trec10+web">
+    <query>tornadoes</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7376" official="None" origin="trec10+web">
+    <query>raised gardens</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7377" official="None" origin="trec10+web">
+    <query>bobcat</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7378" official="None" origin="trec10+web">
+    <query>dieting</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7379" official="None" origin="trec10+web">
+    <query>voyager</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7380" official="None" origin="trec10+web">
+    <query>keyboard reviews</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7381" official="None" origin="trec10+web">
+    <query>afghanistan</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7382" official="None" origin="trec10+web">
+    <query>joints</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7383" official="None" origin="trec10+web">
+    <query>memory</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7384" official="None" origin="trec10+web">
+    <query>continental plates</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7385" official="None" origin="trec10+web">
+    <query>milwaukee journal sentinel</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7386" official="None" origin="trec10+web">
+    <query>bart sf</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7387" official="None" origin="trec10+web">
+    <query>who invented music</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7388" official="None" origin="trec10+web">
+    <query>forearm pain</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7389" official="None" origin="trec10+web">
+    <query>ocd</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7390" official="None" origin="trec10+web">
+    <query>mgb</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7391" official="None" origin="trec10+web">
+    <query>er tv show</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7392" official="None" origin="trec10+web">
+    <query>the wall</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7393" official="None" origin="trec10+web">
+    <query>raffles</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7394" official="None" origin="trec10+web">
+    <query>titan</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7395" official="None" origin="trec10+web">
+    <query>earn money at home</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7396" official="None" origin="trec10+web">
+    <query>rice</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7397" official="None" origin="trec10+web">
+    <query>south africa</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7398" official="None" origin="trec10+web">
+    <query>sat</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7399" official="None" origin="trec10+web">
+    <query>satellite</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7400" official="None" origin="trec10+web">
+    <query>rincon puerto rico</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7401" official="FedWeb13" origin="new">
+    <query>yo mama jokes</query>
+    <description>You want to find lots of good &amp;#039;yo mama&amp;#039; jokes.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="online" id="7402" official="FedWeb14" origin="new">
+    <query>little johnny</query>
+    <description>find jokes about little johnny</description>
+    <narrative>You need to entertain a group of youngsters, and want to be armed with a bunch of jokes about little Johnny. Sites which offer several or even many of them are most relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7403" official="FedWeb13" origin="new">
+    <query>usc trojans</query>
+    <description>You want to find news about the usc trojans.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7404" official="FedWeb13" origin="new">
+    <query>kobe bryant</query>
+    <description>You want to find news about Kobe Bryant.</description>
+    <narrative>In fact, you are really looking for the latest gossip about Kobe Bryant. Most relevant are therefore the most recent posts, rather than older biographical data about him.</narrative>
+  </topic>
+  <topic evaluation="None" id="7405" official="FedWeb13" origin="new">
+    <query>light therapy</query>
+    <description>You are looking for information about light therapy.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7406" official="FedWeb13" origin="new">
+    <query>does my child have adhd</query>
+    <description>You want to find the criteria needed for a child to be diagnozed with ADHD.</description>
+    <narrative>Your child has difficulties focusing at school. You want to find out whether that points in the direction of adhd, before going to a doctor. Results in the form of a quiz are somewhat relevant, but you prefer medical sites with a better explanation of the symptoms.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7407" official="FedWeb13" origin="new">
+    <query>kim kardashian pregnant</query>
+    <description>You want to know everything about Kim Kardashian being pregnant, with pictures and everything.</description>
+    <narrative>I want to know the latest gossip about Kim Kardashian pregnancy. However, I&amp;#039;m not up-to-date with older gossip, so that&amp;#039;s welcome as well. </narrative>
+  </topic>
+  <topic evaluation="None" id="7408" official="FedWeb13" origin="new">
+    <query>tom cruise</query>
+    <description>You want to find the latest news and gossip about tom cruise</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7409" official="FedWeb13" origin="new">
+    <query>rihanna chris brown</query>
+    <description>You want the latest gossip about Rihanna and Chris Brown.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7410" official="None" origin="trec10+web">
+    <query>boston bombing why</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7411" official="FedWeb13" origin="new">
+    <query>lenin mausoleum open</query>
+    <description>You want to know when the Lenin Mausoleum in Moscow is reopened for visitors</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7412" official="FedWeb13" origin="new">
+    <query>when queen elisabeth</query>
+    <description>You want to know the dates for the finals of the 2013 Queen Elisabeth piano competition.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="online" id="7413" official="FedWeb14" origin="new">
+    <query>alkan piano</query>
+    <description>You want to find video or audio fragments of music written by the French composer Charles-Valentin Alkan. </description>
+    <narrative>You are going to a concert by the famous piano player Alan Weiss, who is going to give a complete recital with work from Alkan, which you don&amp;#039;t know at all, so you want to be prepared. Some background information on Alkan would be interesting, but you are mostly interested in the actual music. You prefer online content, but cd&amp;#039;s would be interesting, too (especially recordings by Alan Weiss himself).</narrative>
+  </topic>
+  <topic evaluation="None" id="7414" official="None" origin="new">
+    <query>alkan piano videos</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7415" official="FedWeb13" origin="new">
+    <query>most anticipated games of 2013</query>
+    <description>You want to know which are this year&amp;#039;s most anticipates games</description>
+    <narrative>You want to find out which video games have been released in the first months of 2013, and which are expected before the end of the year. &#13;
+Based on trailers/previews and reviews by experts, you want to make up your mind about the most anticipated games in 2013, keeping in mind you might want to order one.&#13;
+&#13;
+The best results are those with a large overview of 2013 games (top 10 is fine, but more is even better). &#13;
+You want to make your judgment based on those from specialized sites or game developers. &#13;
+Games for all possible consoles are taken into account (ps3, xbox, pc,...). </narrative>
+  </topic>
+  <topic evaluation="None" id="7416" official="FedWeb13" origin="new">
+    <query>release date bioshock infinite</query>
+    <description>You need to know when is the release date of the game bioshock infinite</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7417" official="FedWeb13" origin="new">
+    <query>dota 2 heroes</query>
+    <description>You want to find a list of dota 2 heroes (from the game)</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7418" official="None" origin="new">
+    <query>hots build order swarm host rush</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7419" official="None" origin="new">
+    <query>homepage of Badland game for iphone</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7420" official="FedWeb13" origin="new">
+    <query>Badland game for iphone</query>
+    <description>You want to find the homepage of Badland game for iphone</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7421" official="FedWeb13" origin="new">
+    <query>story magic flute</query>
+    <description>You want to get a short description of the story told in Mozart&amp;#039;s opera The Magic Flute</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7422" official="None" origin="new">
+    <query>meaning of perceiver-receiver Murakami 1q84</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7423" official="FedWeb13" origin="new">
+    <query>postdoc jobs european university biotech</query>
+    <description>You want to find out which postdoc positions are available in the field of biotechnology in European universities</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7424" official="FedWeb13" origin="new">
+    <query>best italian food Rome</query>
+    <description>You are looking for a fine Italian restaurant in Rome</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7425" official="FedWeb13" origin="new">
+    <query>coloring picture cars</query>
+    <description>you want to print a coloring of a character of the movie Cars, black/white picture, in order for the kids to color it on paper</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7426" official="FedWeb13" origin="new">
+    <query>game bmx boy</query>
+    <description>You want to find the game Bmx Boy to download it on your touchscreen device to have your children play the game</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7427" official="FedWeb13" origin="new">
+    <query>k3 mamase</query>
+    <description>you want to find the song &amp;quot;mamase&amp;quot; from the group K3 so that the kids can listen and sing along.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7428" official="FedWeb13" origin="new">
+    <query>rainy afternoon kids craft</query>
+    <description>You want to find some handcraft activities to do with your children at home on a rainy afternoon</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7429" official="None" origin="new">
+    <query>video lecture graphical models</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7430" official="FedWeb13" origin="new">
+    <query>conflict mali</query>
+    <description>You want to get more information, especially the latest news, on the conflict in Mali.</description>
+    <narrative>Someone from your family is currently residing in Mali, and you want to keep track of the sensitive conflict situation.&#13;
+Especially news report from direct sources, journalists in the region.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7431" official="FedWeb14" origin="new">
+    <query>navalni trial</query>
+    <description>You want to find the latest news on the trial of the Russian activist Alexei Navalny.</description>
+    <narrative>You&amp;#039;re talking to an online Russian friend about politics and he mentions the activist Navalny. You don&amp;#039;t want to seem uninformed so you&amp;#039;re looking for concise information on his trial, preferably news articles dating after the trial (july 2013), though general information about the man is still useful as long as it is up to date.</narrative>
+  </topic>
+  <topic evaluation="None" id="7432" official="FedWeb13" origin="new">
+    <query>ticket to mars</query>
+    <description>You heard people can apply for a one-way ticket to Mars, and want to find more details about the application procedure.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7433" official="FedWeb13" origin="new">
+    <query>747-8</query>
+    <description>You want to know what&amp;#039;s so special about the new Boeing 747-8.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7434" official="FedWeb13" origin="new">
+    <query>wellness hotel Maastricht</query>
+    <description>You are looking for a wellness hotel in the Dutch city of Maastricht</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7435" official="FedWeb13" origin="new">
+    <query>trendy bar Berlin</query>
+    <description>You are looking for a trendy bar in the German capital Berlin</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7436" official="None" origin="new">
+    <query>jokes Dutch</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7437" official="FedWeb13" origin="new">
+    <query>free aldi meyola songs</query>
+    <description>You want to find free audio or video files with music from/with guitarist Al Di Meyola.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7438" official="FedWeb13" origin="new">
+    <query>facebook privacy</query>
+    <description>You want to find information on potential privacy issues when using Facebook</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7439" official="FedWeb13" origin="new">
+    <query>make crown</query>
+    <description>You want to find a description (e.g., with pictures or a video), of how a kid can make a birthday crown.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7440" official="FedWeb13" origin="new">
+    <query>barcelona real madrid</query>
+    <description>You want the result of the last time these two teams played each other.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7441" official="FedWeb14" origin="new">
+    <query>barcelona real madrid goal messi</query>
+    <description>You are looking for videos from beautiful goals by Barcelona player Messi against Madrid.</description>
+    <narrative>Your friend does not know the FC Barcelona player Messi, and to convince him of Messi&amp;#039;s qualities, you want to show him a video of a beautiful goal Messi made. Goals against Barcelona would be most relevant (as you remember a particularly nice goal in a match against Real Madrid). Any other goals by Messi would be relevant, too. Background information about Messi might also be somewhat relevant.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7442" official="None" origin="new">
+    <query>world record marathon</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7443" official="None" origin="new">
+    <query>tom boonen</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7444" official="None" origin="new">
+    <query>rugby</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7445" official="FedWeb13" origin="new">
+    <query>marathon training</query>
+    <description>You want to find an introduction page explaining how to train for the marathon. </description>
+    <narrative>You don&amp;#039;t want specific (in depth) tips or tricks, just a first introduction, and preferably such a page knows how to redirect you to more in depth links on the subject.</narrative>
+  </topic>
+  <topic evaluation="None" id="7446" official="FedWeb13" origin="new">
+    <query>cycling on the mont ventoux</query>
+    <description>You want information on this mountain, what is the &amp;#039;official&amp;#039; side to climb it as an amateur, how long is it, and how to train for it.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7447" official="FedWeb13" origin="new">
+    <query>running shoes</query>
+    <description>You want to know how you should buy running shoes (NOT where or from which brand, rather what are the main points to pay attention to).</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7448" official="FedWeb14" origin="new">
+    <query>running shoes boston</query>
+    <description>You want to find stores in Boston that sell running shoes (you prefer specialized stores over general purpose stores that also store running shoes)</description>
+    <narrative>you want to find specialized stores in Boston that sell running shoes. Therefore, homepages of such stores located in the Boston area are most relevant. Web stores are less relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7449" official="FedWeb13" origin="new">
+    <query>Asics GT 2000</query>
+    <description>You want to know everything there is to know about these shoes: reviews, price, look, online shops, etc...</description>
+    <narrative>After this first investigation, you intend to buy these shoes (therefore good arguments on why / why not to buy them, are what you are looking for now). Especially full reviews are what you want to find.&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7450" official="FedWeb13" origin="new">
+    <query>thailand individual travel</query>
+    <description>You want to find information on travelling in Thailand, rather as an individual than in a fixed organized group trip. You&amp;#039;re interested in the country (pictures, videos, history..), must-see places, possible health issues and required vaccinations, means of transportation...</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7451" official="FedWeb13" origin="new">
+    <query>buy animal farm</query>
+    <description>You want to buy the book animal farm from George Orwell</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7452" official="FedWeb13" origin="new">
+    <query>arizona game and fish homepage</query>
+    <description>You want to go to the Arizona Game and Fish Department homepage.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7453" official="FedWeb13" origin="new">
+    <query>pc 2 games reviews</query>
+    <description>You want to find reviews of PlayStation 2 games.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7454" official="FedWeb13" origin="new">
+    <query>inuyasha pics</query>
+    <description>You are looking for pictures and wallpaper images from InuYasha.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7455" official="None" origin="new">
+    <query>alexian brothers hospital homepage</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7456" official="FedWeb13" origin="new">
+    <query>gps reviews</query>
+    <description>You are looking for reviews of GPS units and car navigation systems.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7457" official="FedWeb13" origin="new">
+    <query>the music man lyrics</query>
+    <description>You want to find lyrics for songs from The Music Man.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7458" official="FedWeb13" origin="new">
+    <query>rice recipe</query>
+    <description>You want to find recipes with rice.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7459" official="FedWeb13" origin="new">
+    <query>little johnny jokes</query>
+    <description>You want to find jokes about little johnny.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="online" id="7460" official="FedWeb14" origin="new">
+    <query>kobe bryant news</query>
+    <description>You want to find news about kobe bryant.</description>
+    <narrative>You are following the NBA and are a fan of Kobe Bryant. Now you are looking for the latest news about him. [note: now = April, 2014]</narrative>
+  </topic>
+  <topic evaluation="None" id="7461" official="FedWeb13" origin="new">
+    <query>navalni trial latest news</query>
+    <description>You want to find the latest news on the trial of the Russian activist Alexei Navalny</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7462" official="None" origin="new">
+    <query>barcelona real madrid goal messi video</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7463" official="FedWeb13" origin="new">
+    <query>hollywood actress</query>
+    <description>You want to find pictures of famous hollywood actresses.</description>
+    <narrative>You want to watch a movie, have no idea which one, and want to choose based on an actor/actress. But you cannot come up with someone. Therefore, you want to get some ideas from pictures of movie starts (not just one, but as many as possible on the same result page), preferably with their names.</narrative>
+  </topic>
+  <topic evaluation="None" id="7464" official="None" origin="new">
+    <query>hollywood actress photos</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="TREC" id="7465" official="FedWeb13" origin="new">
+    <query>xman sequel </query>
+    <description>You want to find out if there is going to come a sequal to the X-Men film series, and if so, when it can be expected.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7466" official="FedWeb13" origin="new">
+    <query>interconnects skin effect</query>
+    <description>You want to find scientific articles on interconnect modeling, and more specifically, on the skin effect.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7467" official="None" origin="new">
+    <query>pdf interconnects skin effect</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7468" official="FedWeb13" origin="new">
+    <query>car change radiator fluid</query>
+    <description>You are looking for information on how to change the radiator fluid of your car. You prefer a list of simple steps with pictures, but a video is ok, too.</description>
+    <narrative>Just a single picture is not enough.</narrative>
+  </topic>
+  <topic evaluation="None" id="7469" official="FedWeb13" origin="new">
+    <query>ibm thinkpad t43 change fan</query>
+    <description>You need to change the fan of your IBM laptop (model Thinkpad t43), and are looking for a detailed description that describes how to proceed in opening your laptop and replacing the device (e.g., product description, or a video)</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7470" official="FedWeb13" origin="new">
+    <query>is sugar poison</query>
+    <description>Some say sugar is poison; you want to get a more nuanced opninion on that.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7471" official="FedWeb13" origin="new">
+    <query>php foreach</query>
+    <description>You need the exact syntax for the foreach statement in php.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7472" official="FedWeb13" origin="new">
+    <query>python re tutorial</query>
+    <description>You want to find a good introduction on how to use regular expressions in python. </description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7473" official="FedWeb13" origin="new">
+    <query>noise canceling head phones</query>
+    <description>What do you pay attention to when you want to buy noise-cancelling head phones? </description>
+    <narrative>You want to buy noise-cancelling headphones but have no idea where to start looking, or what are the most important aspects to pay attention to. Product reviews might greatly help in that, but also shopping sites, videos,...</narrative>
+  </topic>
+  <topic evaluation="None" id="7474" official="FedWeb13" origin="new">
+    <query>php convert special symbols to html </query>
+    <description>You want to find which php command can be used to transform special characters (like &amp;lt;, &amp;gt;, &amp;amp;,...) to html entities</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7475" official="FedWeb13" origin="new">
+    <query>software consultant work at home</query>
+    <description>You are looking for companies that hire software consultants for working from a distance instead of at the company venue.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7476" official="None" origin="new">
+    <query>latest news</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7477" official="FedWeb13" origin="new">
+    <query>china bird flu</query>
+    <description>You want to know about the most recent outbreak of a new form of bird flu in China</description>
+    <narrative>You want to stay up-to-date on the newest influenza virus H7N9 in China. Information on other viruses is not useful. The date is important (after the outbreak in April, 2013).&#13;
+</narrative>
+  </topic>
+  <topic evaluation="None" id="7478" official="FedWeb13" origin="new">
+    <query>protect kids online</query>
+    <description>You want to know how you can protect your kids in social media and online communities </description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7479" official="FedWeb13" origin="new">
+    <query>dunbar number social networks</query>
+    <description>You want to find out what is Dunbar&amp;#039;s number and if it holds in social networks</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7480" official="FedWeb13" origin="new">
+    <query>phd comics</query>
+    <description>You are looking for phd comics, preferably the &amp;#039;best of&amp;#039;</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7481" official="FedWeb13" origin="new">
+    <query>worms nexus 7</query>
+    <description>You want to know if there is an app for the game worms on the android tablet nexus 7.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7482" official="FedWeb13" origin="new">
+    <query>popular twitter stars</query>
+    <description>you want to know who are currently the most popular stars on social media like twitter.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7483" official="FedWeb13" origin="new">
+    <query>facebook paying?</query>
+    <description>You want to find information on (future plans on) paying services from Facebook. </description>
+    <narrative>Someone mentioned Facebook might become a paying service, and you want to know whether there&amp;#039;s any truth in that. </narrative>
+  </topic>
+  <topic evaluation="None" id="7484" official="FedWeb13" origin="new">
+    <query>earthquake</query>
+    <description>You want to know more about the recent earthquake in Iran (April 16th, 2013): where exactly, casualties, strengh,...</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7485" official="FedWeb13" origin="new">
+    <query>bachelor party jokes</query>
+    <description>You want to find inspiration on some fun activities you could prepare for a bachelor party.</description>
+    <narrative>Your brother is getting married. &#13;
+You are looking for some original ideas for his bachelor party. Sites that are dedicated to the topic are top, especially if they describe several pranks. &#13;
+Sites about bachelorette parties (for girls) are only slightly interesting, as you expect that most stuff is not usable for men.&#13;
+Jokes about bachelor parties are non-relevant.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7486" official="FedWeb14" origin="new">
+    <query>board games teenagers</query>
+    <description>You want to buy a new board game for your teenage kids; which are the most popular?</description>
+    <narrative>You want to buy a new board game for your teenage kids. You want to find out which ones are popular. Most relevant are pages that provide you with reviews or an overview of current board games for teenagers. Results describing a single game are less relevant.</narrative>
+  </topic>
+  <topic evaluation="None" id="7487" official="FedWeb13" origin="new">
+    <query>april fools day ideas</query>
+    <description>You need inspiration for funny jokes on April 1st.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7488" official="FedWeb13" origin="new">
+    <query>DIY shops london open sunday </query>
+    <description>You want to find out which do-it-yourself shops near London are open on Sundays.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7489" official="FedWeb13" origin="new">
+    <query>make skull mask</query>
+    <description>You are looking for information on how to make a skull mask.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7490" official="FedWeb13" origin="new">
+    <query>convert wav mp3</query>
+    <description>You need a software tool to convert a .wav audio file to an .mp3 file.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7491" official="FedWeb14" origin="new">
+    <query>convert wav mp3 program</query>
+    <description>You need a software tool to convert a .wav audio file to an .mp3 file.</description>
+    <narrative>Your music library is getting really large so in order to save some hard disk space you want to convert all your .wav files to .mp3. Descriptions on how to do this are okay but a lot better are direct links to the proper tool.</narrative>
+  </topic>
+  <topic evaluation="None" id="7492" official="FedWeb13" origin="new">
+    <query>oldest jokes</query>
+    <description>You want to find a list with the world&amp;#039;s oldest jokes.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7493" official="FedWeb13" origin="new">
+    <query>islam discussions social media</query>
+    <description>You want to know which are current hot topics going on in islam social media communities.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7494" official="FedWeb13" origin="new">
+    <query>cartoons festival </query>
+    <description>You are looking for good cartoons (e.g., from the Shrewsbury international cartoon festival)</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7495" official="None" origin="new">
+    <query>site hot on social media</query>
+    <description/>
+    <narrative/>
+  </topic>
+  <topic evaluation="None" id="7496" official="FedWeb13" origin="new">
+    <query>why IEEE member</query>
+    <description>You want to know the benefits you get from joining the IEEE, but also what it costs, etc.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7497" official="FedWeb13" origin="new">
+    <query>shostakovich life</query>
+    <description>You want to find information on Dmitri Shostakovich, both about his life and his music.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7498" official="FedWeb13" origin="new">
+    <query>syria chemical weapons</query>
+    <description>You want to know more on the recent rumours that chemical weapons are being used in the Syrian war.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7499" official="FedWeb13" origin="new">
+    <query>gold price</query>
+    <description>You want to see how the value of gold changes over time, and what it&amp;#039;s worth at this time.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7500" official="FedWeb13" origin="new">
+    <query>roof isolation</query>
+    <description>You want information on how you can isolate your roof. Especially videos would be helpful.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7501" official="FedWeb14" origin="new">
+    <query>criquet miler</query>
+    <description>You are looking for video fragments of the old-style Czech children animation series</description>
+    <narrative>A good online friend of yours is a big fan of &amp;#039;Le Criquet&amp;#039; and you want to surprise him by compiling funny video fragments of the series and making your own little story with them.</narrative>
+  </topic>
+  <topic evaluation="None" id="7502" official="FedWeb13" origin="new">
+    <query>baby todler snowsuit</query>
+    <description>You are looking to buy snow clothing, jacket and trousers, for kids aged&#13;
+1 or 2.</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="None" id="7503" official="FedWeb13" origin="new">
+    <query>uki</query>
+    <description>You are looking for the children animation series Uki, either online or to buy dvds</description>
+    <narrative></narrative>
+  </topic>
+  <topic evaluation="TREC" id="7504" official="FedWeb13" origin="new">
+    <query>leiden schools</query>
+    <description>You heard the Leiden schools have been closed due to a massive gun threat. Any further news would be most helpful. </description>
+    <narrative>You have some family living in Leiden, and heard about the gun threat on the news. Now you are looking for the latest developments, and some more detailed information.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7505" official="FedWeb13" origin="new">
+    <query>ethnic myanmar</query>
+    <description>You want to know more about the recent ethnic cleansing in Myanmar</description>
+    <narrative>Reports on the ethnic conflict that erupted around Juni 2012, and the situation up to now (=April 23,2013), are the most relevant information you are looking for, especially the ethnic cleansing of the Rohingya population. Earlier ethnic conflicts are considered less relevant.</narrative>
+  </topic>
+  <topic evaluation="TREC" id="7506" official="FedWeb13" origin="new">
+    <query>I touch myself singer dead</query>
+    <description>You heard the singer from I touch myself  just died (Chrissy Amphlett), and you want to know more about that.</description>
+    <narrative>You heard Chrissy Amphlett passed away, and you would like to have some more information on who she was, and especially the cause of her early death. &#13;
+Especially results from trustworthy sources in the music community  (like specialized magazines) are important. </narrative>
+  </topic>
+</FedWeb_topics>

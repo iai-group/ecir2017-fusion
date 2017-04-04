@@ -1,0 +1,3 @@
+{
+  "entity_collections": ["dbpedia-3.9", "dbpedia-2015-10", "dbpedia-2015-10-clean", "freebase"]
+}

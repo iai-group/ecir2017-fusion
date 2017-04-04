@@ -1,0 +1,16 @@
+{"index_name": "toy_index",
+                      "query_file": "data/queries/test_queries.json",
+                      "first_pass": {
+                          "num_docs": 1000,
+                          "field": "content",
+                          "model": "LMJelinekMercer",
+                          "model_params": {"lambda": 0.1}
+                      },
+                      "second_pass":{
+                          "field": "content",
+                          "model": "lm",
+                          "smoothing_method": "jm",
+                          "smoothing_param": 0.1
+                      },
+                      "output_file": "output/test_retrieval.txt"
+}
