@@ -1,0 +1,9 @@
+{
+  "hosts": [
+    "152.94.1.85:9200"
+  ],
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  }
+}
