@@ -14,7 +14,7 @@ This repository is structured as follows:
 - output/:  all run files scripts and their result files
 
 ## Data
-The data we use are public data sets:
+The data we used are public data sets:
 - CSIRO: The dataset was used for TREC task of expert search task in 2006 and 2007.
 - Blogs06: The dataset was used for TREC task of blog distillation in 2006 and 2007, which is not for free yet.
 - FedWeb13 and FedWeb14: These datasets were used for TREC task of federated search in 2013 and 2014.
