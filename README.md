@@ -1,9 +1,9 @@
-# Fusion-Bsed Object Retrieval
+# Fusion-Based Object Retrieval
 This repository provides reources developed within the following paper:
 
 > S. Zhang and K. Balog. Design Patterns for Fusion-Based Object Retrieval, In ECIR'17, April 2017.
 
-This study is an effort aimed at reproducing the result presented in the Fusion-Bsed Object paper.
+This study is an effort aimed at reproducing the result presented in the Fusion-Based Object paper.
 
 This repository is structured as follows:
 
