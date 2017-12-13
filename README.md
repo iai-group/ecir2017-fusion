@@ -30,6 +30,19 @@ executes the run of early fusion model incorporating BM25 methods for blog disti
 ## Qrels
 The qrel files are all provided in data/ sub-folders.
 
+## Citation
+```
+@inproceedings{Zhang:2017:DPF,
+    author = {Shuo Zhang and Krisztian Balog},
+    title = {Design Patterns for Fusion-Based Object Retrieval},
+    booktitle = {Proceedings of the 39th European conference on Advances in Information Retrieval},
+    series = {ECIR '17},
+    publisher = {Springer},
+    pages = {684--690},
+	  year = {2017}
+}
+```
+
 ## Contact
 If you have any question, please contact Shuo Zhang at shuo.zhang@uis.no
 
