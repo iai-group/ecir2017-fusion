@@ -44,7 +44,7 @@ The qrel files are all provided in data/ sub-folders.
 ```
 
 ## Contact
-If you have any question, please contact Shuo Zhang at shuo.zhang@uis.no
+If you have any question, please contact Shuo Zhang at imsure318@gmail.com.
 
 
  
